@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="graphene2gephi" default="graphene2gephi.jar" basedir="." >
+
+  <property name="build.dir" value="build" />
+  <property name="src.dir"   value="src" />
+  <property name="lib.dir"   value="lib" />
+  <property name="doc.dir"   value="doc" />
+
+  <target name="graphene2gephi.jar" depends="compile.graphene2gephi">
+    <jar jarfile="graphene2gephi.jar">
+      <zipfileset dir="${build.dir}" prefix="" />
+      <manifest>
+        <attribute name="Main-Class" value="Graphene2Gephi"/>
+      </manifest>
+    </jar>
+  </target>
+
+  <target name="compile.graphene2gephi">
+    <mkdir dir="${build.dir}"/>
+    <javac srcdir="${src.dir}"
+           destdir="${build.dir}"
+           debug="true"
+           debuglevel="lines,vars,source"
+           includeantruntime="false"
+           deprecation="true"
+           nowarn="off">
+      <classpath>
+        <fileset dir="${lib.dir}">
+          <include name="*.jar"/>
+        </fileset>
+      </classpath>
+      <compilerarg value="-Xlint:unchecked"/>
+    </javac>
+  </target>
+
+  <target name="clean">
+    <delete file="graphene2gephi.jar"/>
+    <delete dir="${build.dir}"/>
+  </target>
+
+</project>
