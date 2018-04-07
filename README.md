@@ -12,5 +12,5 @@ The parsed file is in a .gexf format, this xml format file can be used in the op
 	ant
 
 ### Get it to work
-	java -jar Graphene2Gephi.jar inputFile.nt outputFile.gexf
+	java -jar graphene2gephi.jar inputFile.nt outputFile.gexf
 
