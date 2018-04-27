@@ -35,7 +35,7 @@ public class Graphene2Gephi {
                p.depurate();
                in.close();
           } catch (IOException ioe) {
-               throw new IOException("An error occurred while trying to read the file.");
+               throw new IOException("An error occurred while trying to read the file: " + ioe);
           }
      }
 
@@ -47,9 +47,14 @@ public class Graphene2Gephi {
                out.write(p.toString());
                out.close();
           } catch (IOException ioe) {
-               throw new IOException("An error occurred while reading the file.");
+               throw new IOException("An error occurred while writing the file: " + ioe);
           }
+     }
 
+     private static void usage() {
+          String s = "Usage: \n " +
+                         "java -jar graphene2gephi.jar inputFile.nt outputFile.gexf [-d|-D objectivesFile]";
+          System.out.println(s);
      }
 
      public static void main(String[] args) {
@@ -70,7 +75,7 @@ public class Graphene2Gephi {
           } catch (IOException ioe) {
                System.out.println(ioe);
           } catch (ArrayIndexOutOfBoundsException aio) {
-               System.out.println("Usage: \n java -jar graphene2gephi.jar inputFile.nt outputFile.gexf [-d|-D objectiveFile]");
+               usage();
           }
      }
 }

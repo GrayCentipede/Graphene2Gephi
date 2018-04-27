@@ -7,8 +7,31 @@ import java.util.Iterator;
 import java.io.IOException;
 
 public class Parser {
-     private ArrayList<String[]> Nodes;
-     private ArrayList<Object[]> Edges;
+
+     private class Edge {
+          private String label;
+          private int source;
+          private int target;
+
+          private Edge(String label, int source, int target) {
+               this.label = label;
+               this.source = source;
+               this.target = target;
+          }
+     }
+
+     private class Node {
+          private int ID;
+          private String label;
+
+          private Node(int ID, String label) {
+               this.ID = ID;
+               this.label = label;
+          }
+     }
+
+     private ArrayList<Node> Nodes;
+     private ArrayList<Edge> Edges;
 
      private ArrayList<String> Objectives;
 
@@ -70,22 +93,21 @@ public class Parser {
                          String copy = label.toLowerCase();
 
                          int z = -1;
-                         for (String[] s : Nodes) {
-                              if(s[1].toLowerCase().equals(copy)){
-                                   z = Integer.parseInt(s[0]);
+                         for (Node node : Nodes) {
+                              if(node.label.toLowerCase().equals(copy)){
+                                   z = node.ID;
                                    break;
                               }
                          }
 
 
                          if (z < 0) {
+                              int id = Nodes.size();
                               if (line.indexOf("extraction#subject") > -1)
-                                   subjectID = Nodes.size();
+                                   subjectID = id;
                               else
-                                   objectID = Nodes.size();
-                              String id = Integer.toString(Nodes.size());
-                              String[] node = new String[]{id, label};
-                              Nodes.add(node);
+                                   objectID = id;
+                              Nodes.add(new Node(id, label));
                          }
                          else {
                               if (line.indexOf("extraction#subject") > -1)
@@ -95,11 +117,11 @@ public class Parser {
                          }
 
                          if (line.indexOf("extraction#object") > -1) {
-                              Object[] edge;
+                              Edge edge;
                               if (verb.isEmpty())
-                                   edge = new Object[]{"", subjectID, objectID} ;
+                                   edge = new Edge("", subjectID, objectID);
                               else
-                                   edge = new Object[]{verb, subjectID, objectID};
+                                   edge = new Edge(verb, subjectID, objectID);
 
                               Edges.add(edge);
                               verb = "";
@@ -117,28 +139,27 @@ public class Parser {
 
      public void depurate() {
           ArrayList<Integer> n = new ArrayList<>();
-          ArrayList<String> keep = new ArrayList<>();
-          Iterator<String[]> j = Nodes.iterator();
-          Iterator<Object[]> i = Edges.iterator();
+          ArrayList<Integer> keep = new ArrayList<>();
+          Iterator<Node> j = Nodes.iterator();
+          Iterator<Edge> i = Edges.iterator();
 
-          for (String[] s : Nodes) {
+          for (Node node : Nodes) {
                for (String o : Objectives) {
-                    String k = s[1];
-                    if (k.indexOf(o) > -1) {
-                         n.add(Integer.parseInt(s[0]));
+                    if (node.label.indexOf(o) > -1) {
+                         n.add(node.ID);
                          break;
                     }
                }
           }
 
           while (i.hasNext()) {
-               Object[] e = i.next();
+               Edge e = i.next();
                Boolean found = false;
-               if (!(n.contains(e[1]) || n.contains(e[2]))) {
+               if (!(n.contains(e.source) || n.contains(e.target))) {
                     if (mode == 2) {
                          for (String o : Objectives) {
                               found = false;
-                              String aux = (String) e[0];
+                              String aux = (String) e.label;
                               if (aux.indexOf(o) > -1)
                                    found = true;
                          }
@@ -152,15 +173,15 @@ public class Parser {
                          continue;
                     }
                }
-               String[] t = Nodes.get((int) e[1]);
-               keep.add(t[0]);
-               t = Nodes.get((int) e[2]);
-               keep.add(t[0]);
+               Node t = Nodes.get(e.source);
+               keep.add(t.ID);
+               t = Nodes.get(e.target);
+               keep.add(t.ID);
           }
 
           while (j.hasNext()) {
-               String[] s = j.next();
-               if (!(keep.contains(s[0])))
+               Node s = j.next();
+               if (!(keep.contains(s.ID)))
                     j.remove();
           }
      }
@@ -174,8 +195,8 @@ public class Parser {
           file += "          <nodes count=\""+ Nodes.size() +"\">\n";
 
           int x = 0;
-          for (String[] node : Nodes) {
-               file += "               <node id=\""+ node[0] +"\" label=\""+ node[1] +"\"/>\n";
+          for (Node node : Nodes) {
+               file += "               <node id=\""+ node.ID +"\" label=\""+ node.label +"\"/>\n";
           }
 
 
@@ -183,8 +204,8 @@ public class Parser {
           file += "          <edges count=\""+ Edges.size() +"\">\n";
 
           x = 0;
-          for (Object[] edge : Edges) {
-               file += "               <edge id=\""+ (x++) +"\" label=\""+ edge[0] +"\" source=\""+ edge[1] +"\" target=\""+ edge[2] +"\" />\n";
+          for (Edge edge : Edges) {
+               file += "               <edge id=\""+ (x++) +"\" label=\""+ edge.label +"\" source=\""+ edge.source +"\" target=\""+ edge.target +"\" />\n";
           }
 
           file += "          </edges>\n";
