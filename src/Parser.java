@@ -8,25 +8,41 @@ import java.io.IOException;
 
 public class Parser {
 
-     private class Edge {
-          private String label;
-          private int source;
-          private int target;
-
-          private Edge(String label, int source, int target) {
-               this.label = label;
-               this.source = source;
-               this.target = target;
-          }
-     }
-
-     private class Node {
+     public class Node {
           private int ID;
           private String label;
 
           private Node(int ID, String label) {
                this.ID = ID;
                this.label = label;
+          }
+
+          public String getLabel() {
+               return this.label;
+          }
+     }
+
+     public class Edge {
+          private String label;
+          private Node source;
+          private Node target;
+
+          private Edge(String label, Node source, Node target) {
+               this.label = label;
+               this.source = source;
+               this.target = target;
+          }
+
+          public Node getSource() {
+               return this.source;
+          }
+
+          public String getRelation() {
+               return this.label;
+          }
+
+          public Node getTarget() {
+               return this.target;
           }
      }
 
@@ -76,12 +92,13 @@ public class Parser {
 
      public void load(BufferedReader in) throws IOException {
           String line = "";
-          int subjectID = 0;
-          int objectID = 0;
+          Node subject = null;
+          Node object = null;
           String verb = "";
 
           try {
                do {
+                    Node temp = null;
                     line = in.readLine();
 
                     if (line == null)
@@ -92,36 +109,43 @@ public class Parser {
                          String label = filter(line);
                          String copy = label.toLowerCase();
 
-                         int z = -1;
                          for (Node node : Nodes) {
-                              if(node.label.toLowerCase().equals(copy)){
-                                   z = node.ID;
+                              if (node.label.toLowerCase().equals(copy)) {
+                                   temp = node;
                                    break;
                               }
                          }
 
 
-                         if (z < 0) {
+                         if (temp == null) {
                               int id = Nodes.size();
-                              if (line.indexOf("extraction#subject") > -1)
-                                   subjectID = id;
-                              else
-                                   objectID = id;
-                              Nodes.add(new Node(id, label));
+
+                              if (line.indexOf("extraction#subject") > -1) {
+                                   subject = new Node(id, label);
+                                   Nodes.add(subject);
+                              }
+
+                              else {
+                                   object = new Node(id, label);
+                                   Nodes.add(object);
+                              }
+
                          }
+
                          else {
+
                               if (line.indexOf("extraction#subject") > -1)
-                                   subjectID = z;
+                                   subject = temp;
                               else
-                                   objectID = z;
+                                   object = temp;
                          }
 
                          if (line.indexOf("extraction#object") > -1) {
                               Edge edge;
                               if (verb.isEmpty())
-                                   edge = new Edge("", subjectID, objectID);
+                                   edge = new Edge("", subject, object);
                               else
-                                   edge = new Edge(verb, subjectID, objectID);
+                                   edge = new Edge(verb, subject, object);
 
                               Edges.add(edge);
                               verb = "";
@@ -155,7 +179,7 @@ public class Parser {
           while (i.hasNext()) {
                Edge e = i.next();
                Boolean found = false;
-               if (!(n.contains(e.source) || n.contains(e.target))) {
+               if (!(n.contains(e.source.ID) || n.contains(e.target.ID))) {
                     if (mode == 2) {
                          for (String o : Objectives) {
                               found = false;
@@ -173,9 +197,9 @@ public class Parser {
                          continue;
                     }
                }
-               Node t = Nodes.get(e.source);
+               Node t = e.source;
                keep.add(t.ID);
-               t = Nodes.get(e.target);
+               t = e.target;
                keep.add(t.ID);
           }
 
@@ -184,6 +208,10 @@ public class Parser {
                if (!(keep.contains(s.ID)))
                     j.remove();
           }
+     }
+
+     public ArrayList<Edge> getEdges() {
+          return this.Edges;
      }
 
      @Override public String toString() {
@@ -195,18 +223,15 @@ public class Parser {
           file += "          <nodes count=\""+ Nodes.size() +"\">\n";
 
           int x = 0;
-          for (Node node : Nodes) {
+          for (Node node : Nodes)
                file += "               <node id=\""+ node.ID +"\" label=\""+ node.label +"\"/>\n";
-          }
-
 
           file += "          </nodes>\n";
           file += "          <edges count=\""+ Edges.size() +"\">\n";
 
           x = 0;
-          for (Edge edge : Edges) {
-               file += "               <edge id=\""+ (x++) +"\" label=\""+ edge.label +"\" source=\""+ edge.source +"\" target=\""+ edge.target +"\" />\n";
-          }
+          for (Edge edge : Edges)
+               file += "               <edge id=\""+ (x++) +"\" label=\""+ edge.label +"\" source=\""+ edge.source.ID +"\" target=\""+ edge.target.ID +"\" />\n";
 
           file += "          </edges>\n";
           file += "     </graph>\n";
