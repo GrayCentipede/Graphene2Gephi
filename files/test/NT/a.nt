@@ -1,0 +1,1443 @@
+# p. 75 The annoyance of the Lords of XibalbaAnd having gone to play ball on the road to Xibalba , were overheard by Hun-Came and Vucub-Came , the lords of Xibalba .
+
+_:d29f0f8bb81246be96c86add476bfa86 <http://lambda3.org/graphene/sentence#original-text> "p. 75 The annoyance of the Lords of XibalbaAnd having gone to play ball on the road to Xibalba , were overheard by Hun-Came and Vucub-Came , the lords of Xibalba ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:d29f0f8bb81246be96c86add476bfa86 <http://lambda3.org/graphene/sentence#has-extraction> _:1b60512933a0470c9a523bda980ea3c0 .
+_:1b60512933a0470c9a523bda980ea3c0 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:1b60512933a0470c9a523bda980ea3c0 <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:1b60512933a0470c9a523bda980ea3c0 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#p.+75> .
+_:1b60512933a0470c9a523bda980ea3c0 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#were+overheard> .
+_:1b60512933a0470c9a523bda980ea3c0 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#> .
+
+_:1b60512933a0470c9a523bda980ea3c0 <http://lambda3.org/graphene/extraction#S-NOUN_BASED> <http://lambda3.org/graphene/text#Hun-Came+and+Vucub-Came+was+the+lords+of+Xibalba+.> .
+_:1b60512933a0470c9a523bda980ea3c0 <http://lambda3.org/graphene/extraction#S-LIST> <http://lambda3.org/graphene/text#by+Hun-Came+and+Vucub-Came+.> .
+_:1b60512933a0470c9a523bda980ea3c0 <http://lambda3.org/graphene/extraction#L-NOUN_BASED> _:495611f05e98482485eb76c4e635925f .
+
+<http://lambda3.org/graphene/text#p.+75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "p. 75"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#were+overheard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "were overheard"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#Hun-Came+and+Vucub-Came+was+the+lords+of+Xibalba+.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Hun-Came and Vucub-Came was the lords of Xibalba ."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#by+Hun-Came+and+Vucub-Came+.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "by Hun-Came and Vucub-Came ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:d29f0f8bb81246be96c86add476bfa86 <http://lambda3.org/graphene/sentence#has-extraction> _:495611f05e98482485eb76c4e635925f .
+_:495611f05e98482485eb76c4e635925f <http://lambda3.org/graphene/extraction#extraction-type> "NOUN_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:495611f05e98482485eb76c4e635925f <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:495611f05e98482485eb76c4e635925f <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#Hun-Came+and+Vucub-Came> .
+_:495611f05e98482485eb76c4e635925f <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#was> .
+_:495611f05e98482485eb76c4e635925f <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#the+lords+of+Xibalba> .
+
+
+<http://lambda3.org/graphene/text#Hun-Came+and+Vucub-Came> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Hun-Came and Vucub-Came"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#was> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "was"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#the+lords+of+Xibalba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the lords of Xibalba"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# `` What are doing on earth ?
+
+_:20abd8b1ee454510bc660c6141d566cd <http://lambda3.org/graphene/sentence#original-text> "`` What are doing on earth ?"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# Who are who are making the earth shake , and making so much noise ?
+
+_:134c89053516436198babad45e3e5392 <http://lambda3.org/graphene/sentence#original-text> "Who are who are making the earth shake , and making so much noise ?"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# Go and call them !
+
+_:9bb85e8e2ee5455dba2669085c6e4ec7 <http://lambda3.org/graphene/sentence#original-text> "Go and call them !"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# Let them come here to play ball .
+
+_:8b147a4ed2c147e0a34caaef039d4c25 <http://lambda3.org/graphene/sentence#original-text> "Let them come here to play ball ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# Here we will overpower them !
+
+_:ff66937f95c04e28a1a27e141b75f74a <http://lambda3.org/graphene/sentence#original-text> "Here we will overpower them !"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:ff66937f95c04e28a1a27e141b75f74a <http://lambda3.org/graphene/sentence#has-extraction> _:445cb110d21d4d66a478ee57018f5fb8 .
+_:445cb110d21d4d66a478ee57018f5fb8 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:445cb110d21d4d66a478ee57018f5fb8 <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:445cb110d21d4d66a478ee57018f5fb8 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#we> .
+_:445cb110d21d4d66a478ee57018f5fb8 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#will+overpower> .
+_:445cb110d21d4d66a478ee57018f5fb8 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#them> .
+
+
+<http://lambda3.org/graphene/text#we> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "we"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#will+overpower> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "will overpower"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#them> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "them"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# We are no longer respected by them .
+
+_:db83e12046284bdc829138b41cdf42c3 <http://lambda3.org/graphene/sentence#original-text> "We are no longer respected by them ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:db83e12046284bdc829138b41cdf42c3 <http://lambda3.org/graphene/sentence#has-extraction> _:8fd9140b6c8f4340894745c6c61b5464 .
+_:8fd9140b6c8f4340894745c6c61b5464 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:8fd9140b6c8f4340894745c6c61b5464 <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:8fd9140b6c8f4340894745c6c61b5464 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#we> .
+_:8fd9140b6c8f4340894745c6c61b5464 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#are+no+longer+respected+by+them> .
+_:8fd9140b6c8f4340894745c6c61b5464 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#> .
+
+
+<http://lambda3.org/graphene/text#we> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "we"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#are+no+longer+respected+by+them> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "are no longer respected by them"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# no longer have consideration , or fear of our rank , and even fight above our heads , '' said all the lords of Xibalba.p .82 The ball game challengeThe four messengers had the rank of Ahpop-Achih .
+
+_:98c34b0dc8f54dd2ba84c6992eaf050d <http://lambda3.org/graphene/sentence#original-text> "no longer have consideration , or fear of our rank , and even fight above our heads , '' said all the lords of Xibalba.p .82 The ball game challengeThe four messengers had the rank of Ahpop-Achih ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:98c34b0dc8f54dd2ba84c6992eaf050d <http://lambda3.org/graphene/sentence#has-extraction> _:452ffa594ea9402b980afdabcfea8431 .
+_:452ffa594ea9402b980afdabcfea8431 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:452ffa594ea9402b980afdabcfea8431 <http://lambda3.org/graphene/extraction#context-layer> "-1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:452ffa594ea9402b980afdabcfea8431 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#The+ball+game> .
+_:452ffa594ea9402b980afdabcfea8431 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#challengeThe> .
+_:452ffa594ea9402b980afdabcfea8431 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#four+messengers+had+the+rank+of+Ahpop-Achih> .
+
+
+<http://lambda3.org/graphene/text#The+ball+game> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "The ball game"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#challengeThe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "challengeThe"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#four+messengers+had+the+rank+of+Ahpop-Achih> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "four messengers had the rank of Ahpop-Achih"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:98c34b0dc8f54dd2ba84c6992eaf050d <http://lambda3.org/graphene/sentence#has-extraction> _:8d1449cfb49c4240a0ad29c6e0f23c31 .
+_:8d1449cfb49c4240a0ad29c6e0f23c31 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:8d1449cfb49c4240a0ad29c6e0f23c31 <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:8d1449cfb49c4240a0ad29c6e0f23c31 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#fear+of+our+rank+%2C+and+even+fight+above+our+heads+%2C+%27%27> .
+_:8d1449cfb49c4240a0ad29c6e0f23c31 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#said> .
+_:8d1449cfb49c4240a0ad29c6e0f23c31 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#all+the+lords+of+Xibalba.p+.82+The+ball+game+challengeThe+four+messengers+had+the+rank+of+Ahpop-Achih> .
+
+
+<http://lambda3.org/graphene/text#fear+of+our+rank+%2C+and+even+fight+above+our+heads+%2C+%27%27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "fear of our rank , and even fight above our heads , ''"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#said> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "said"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#all+the+lords+of+Xibalba.p+.82+The+ball+game+challengeThe+four+messengers+had+the+rank+of+Ahpop-Achih> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "all the lords of Xibalba.p .82 The ball game challengeThe four messengers had the rank of Ahpop-Achih"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# Leaving Xibalba , arrived quickly , bringing their message to the court where Hun-Hunahpii and Vucub-Hunahpu were playing ball , at the ball-court which was called Nim-Xob-Carchah .
+
+_:4254acb315e248e795f41906e659e0b8 <http://lambda3.org/graphene/sentence#original-text> "Leaving Xibalba , arrived quickly , bringing their message to the court where Hun-Hunahpii and Vucub-Hunahpu were playing ball , at the ball-court which was called Nim-Xob-Carchah ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# 3 The owl messengers went directly to the ball-court and delivered their message exactly as was given to them by Hun-Came , Vucub - Came , Ahalpuh , Ahalgana , Chamiabac , Chamiaholom , Xiquiripat , Cuchumaquic , Ahalmez , Ahaltocob , Xic , and Patan , as the lords were called who sent the message by the owls .
+
+_:61b7b6f6e40c45558fbeb0cfc2680b26 <http://lambda3.org/graphene/sentence#original-text> "3 The owl messengers went directly to the ball-court and delivered their message exactly as was given to them by Hun-Came , Vucub - Came , Ahalpuh , Ahalgana , Chamiabac , Chamiaholom , Xiquiripat , Cuchumaquic , Ahalmez , Ahaltocob , Xic , and Patan , as the lords were called who sent the message by the owls ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:61b7b6f6e40c45558fbeb0cfc2680b26 <http://lambda3.org/graphene/sentence#has-extraction> _:cc9a1986ac31474d8c4c1be4be994b8f .
+_:cc9a1986ac31474d8c4c1be4be994b8f <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:cc9a1986ac31474d8c4c1be4be994b8f <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:cc9a1986ac31474d8c4c1be4be994b8f <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#The+owl+messengers> .
+_:cc9a1986ac31474d8c4c1be4be994b8f <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#went+directly> .
+_:cc9a1986ac31474d8c4c1be4be994b8f <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#to+the+ball-court> .
+
+_:cc9a1986ac31474d8c4c1be4be994b8f <http://lambda3.org/graphene/extraction#L-LIST> _:bc03f8f4fc2a4ff293fe2e5d636b8b85 .
+
+<http://lambda3.org/graphene/text#The+owl+messengers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "The owl messengers"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#went+directly> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "went directly"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#to+the+ball-court> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "to the ball-court"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:61b7b6f6e40c45558fbeb0cfc2680b26 <http://lambda3.org/graphene/sentence#has-extraction> _:bc03f8f4fc2a4ff293fe2e5d636b8b85 .
+_:bc03f8f4fc2a4ff293fe2e5d636b8b85 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:bc03f8f4fc2a4ff293fe2e5d636b8b85 <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:bc03f8f4fc2a4ff293fe2e5d636b8b85 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#The+owl+messengers> .
+_:bc03f8f4fc2a4ff293fe2e5d636b8b85 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#delivered> .
+_:bc03f8f4fc2a4ff293fe2e5d636b8b85 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#their+message+exactly+as+was+given+to+them+by+Hun-Came+%2C+Vucub+-+Came+%2C+Ahalpuh+%2C+Ahalgana+%2C+Chamiabac+%2C+Chamiaholom+%2C+Xiquiripat+%2C+Cuchumaquic+%2C+Ahalmez+%2C+Ahaltocob+%2C+Xic+%2C+and+Patan> .
+
+_:bc03f8f4fc2a4ff293fe2e5d636b8b85 <http://lambda3.org/graphene/extraction#S-BACKGROUND> <http://lambda3.org/graphene/text#as+the+lords+were+called+who+sent+the+message+by+the+owls+.> .
+_:bc03f8f4fc2a4ff293fe2e5d636b8b85 <http://lambda3.org/graphene/extraction#L-LIST> _:cc9a1986ac31474d8c4c1be4be994b8f .
+
+<http://lambda3.org/graphene/text#The+owl+messengers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "The owl messengers"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#delivered> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "delivered"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#their+message+exactly+as+was+given+to+them+by+Hun-Came+%2C+Vucub+-+Came+%2C+Ahalpuh+%2C+Ahalgana+%2C+Chamiabac+%2C+Chamiaholom+%2C+Xiquiripat+%2C+Cuchumaquic+%2C+Ahalmez+%2C+Ahaltocob+%2C+Xic+%2C+and+Patan> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "their message exactly as was given to them by Hun-Came , Vucub - Came , Ahalpuh , Ahalgana , Chamiabac , Chamiaholom , Xiquiripat , Cuchumaquic , Ahalmez , Ahaltocob , Xic , and Patan"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#as+the+lords+were+called+who+sent+the+message+by+the+owls+.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "as the lords were called who sent the message by the owls ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# `` Did the Lords Hun-Came and Vucub-Came really say that we must go with you ? ''
+
+_:13541b38eacf43f4a8b5c9258b827bd7 <http://lambda3.org/graphene/sentence#original-text> "`` Did the Lords Hun-Came and Vucub-Came really say that we must go with you ? ''"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# `` They certainly said so , and ` Let them bring all their playing gear , ' the lords said . ''
+
+_:5689ca5976f1418ead2b7b985f011c35 <http://lambda3.org/graphene/sentence#original-text> "`` They certainly said so , and ` Let them bring all their playing gear , ' the lords said . ''"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:5689ca5976f1418ead2b7b985f011c35 <http://lambda3.org/graphene/sentence#has-extraction> _:f2c9690a5936462cadce4e7cd000995b .
+_:f2c9690a5936462cadce4e7cd000995b <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:f2c9690a5936462cadce4e7cd000995b <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:f2c9690a5936462cadce4e7cd000995b <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#They> .
+_:f2c9690a5936462cadce4e7cd000995b <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#said+so+.+%27%27> .
+_:f2c9690a5936462cadce4e7cd000995b <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#> .
+
+
+<http://lambda3.org/graphene/text#They> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "They"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#said+so+.+%27%27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "said so . ''"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# `` Very well , '' said the youths .
+
+_:61d9729317b54897a53f836a71946056 <http://lambda3.org/graphene/sentence#original-text> "`` Very well , '' said the youths ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# `` Wait for us , we are only going to say good-bye to our mother . ''
+
+_:f7bb01d5a2df424d894673754107d06d <http://lambda3.org/graphene/sentence#original-text> "`` Wait for us , we are only going to say good-bye to our mother . ''"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:f7bb01d5a2df424d894673754107d06d <http://lambda3.org/graphene/sentence#has-extraction> _:7753287adabd445bbcc0170c6996b224 .
+_:7753287adabd445bbcc0170c6996b224 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:7753287adabd445bbcc0170c6996b224 <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:7753287adabd445bbcc0170c6996b224 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#we> .
+_:7753287adabd445bbcc0170c6996b224 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#are+only+going> .
+_:7753287adabd445bbcc0170c6996b224 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#to+say+good-bye+to+our+mother> .
+
+_:7753287adabd445bbcc0170c6996b224 <http://lambda3.org/graphene/extraction#L-LIST> _:1aa4376052a647eab4a57c8334df0eba .
+_:7753287adabd445bbcc0170c6996b224 <http://lambda3.org/graphene/extraction#L-LIST> _:223df11bb115428babe477391b03d2de .
+
+<http://lambda3.org/graphene/text#we> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "we"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#are+only+going> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "are only going"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#to+say+good-bye+to+our+mother> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "to say good-bye to our mother"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# And having gone straight home , said to their mother , for their father was dead : `` We are going , our mother , but our going is only for a while , a The messengers of the lord have come to take us .
+
+_:018b38df5e474c5e895605d72753c06b <http://lambda3.org/graphene/sentence#original-text> "And having gone straight home , said to their mother , for their father was dead : `` We are going , our mother , but our going is only for a while , a The messengers of the lord have come to take us ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:018b38df5e474c5e895605d72753c06b <http://lambda3.org/graphene/sentence#has-extraction> _:1aa4376052a647eab4a57c8334df0eba .
+_:1aa4376052a647eab4a57c8334df0eba <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:1aa4376052a647eab4a57c8334df0eba <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:1aa4376052a647eab4a57c8334df0eba <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#we> .
+_:1aa4376052a647eab4a57c8334df0eba <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#are+going> .
+_:1aa4376052a647eab4a57c8334df0eba <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#> .
+
+_:1aa4376052a647eab4a57c8334df0eba <http://lambda3.org/graphene/extraction#L-LIST> _:7753287adabd445bbcc0170c6996b224 .
+
+<http://lambda3.org/graphene/text#we> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "we"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#are+going> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "are going"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:018b38df5e474c5e895605d72753c06b <http://lambda3.org/graphene/sentence#has-extraction> _:d48c20ff3ea24b76b5f2e6379ba245d6 .
+_:d48c20ff3ea24b76b5f2e6379ba245d6 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:d48c20ff3ea24b76b5f2e6379ba245d6 <http://lambda3.org/graphene/extraction#context-layer> "-1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:d48c20ff3ea24b76b5f2e6379ba245d6 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#our+going> .
+_:d48c20ff3ea24b76b5f2e6379ba245d6 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#is+only> .
+_:d48c20ff3ea24b76b5f2e6379ba245d6 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#for+a+while> .
+
+
+<http://lambda3.org/graphene/text#our+going> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "our going"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#is+only> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "is only"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#for+a+while> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "for a while"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:018b38df5e474c5e895605d72753c06b <http://lambda3.org/graphene/sentence#has-extraction> _:223df11bb115428babe477391b03d2de .
+_:223df11bb115428babe477391b03d2de <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:223df11bb115428babe477391b03d2de <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:223df11bb115428babe477391b03d2de <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#a+The+messengers+of+the+lord> .
+_:223df11bb115428babe477391b03d2de <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#have+come> .
+_:223df11bb115428babe477391b03d2de <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#to+take+us> .
+
+_:223df11bb115428babe477391b03d2de <http://lambda3.org/graphene/extraction#L-LIST> _:7753287adabd445bbcc0170c6996b224 .
+
+<http://lambda3.org/graphene/text#a+The+messengers+of+the+lord> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "a The messengers of the lord"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#have+come> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "have come"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#to+take+us> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "to take us"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# ` They must come , ' said , according to the messengers .
+
+_:bdd7ab1fc67740309f9e899bbbe428bc <http://lambda3.org/graphene/sentence#original-text> "` They must come , ' said , according to the messengers ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# `` We shall leave our ball here in pledge , '' 5 added .
+
+_:ea15e65f830c40fe8860744c7e39d16f <http://lambda3.org/graphene/sentence#original-text> "`` We shall leave our ball here in pledge , '' 5 added ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:ea15e65f830c40fe8860744c7e39d16f <http://lambda3.org/graphene/sentence#has-extraction> _:f93badceea3d4ed3a23b3fdbc9ae7794 .
+_:f93badceea3d4ed3a23b3fdbc9ae7794 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:f93badceea3d4ed3a23b3fdbc9ae7794 <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:f93badceea3d4ed3a23b3fdbc9ae7794 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#5> .
+_:f93badceea3d4ed3a23b3fdbc9ae7794 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#added> .
+_:f93badceea3d4ed3a23b3fdbc9ae7794 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#> .
+
+
+<http://lambda3.org/graphene/text#5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "5"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#added> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "added"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# went immediately to hang in the space under the rooftree .
+
+_:ba029fb41da24befa26631a73faa8574 <http://lambda3.org/graphene/sentence#original-text> "went immediately to hang in the space under the rooftree ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# `` We will return to play , '' said .
+
+_:391e5921287a415980a850536b09e086 <http://lambda3.org/graphene/sentence#original-text> "`` We will return to play , '' said ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# And going to Hunbatz and Hunchouen said to them : `` Keep on playing the flute and singing , painting , and carving ; warm our house and warm the heart of your grandmother .
+
+_:950fb4461f694eaaa8248dd4d31b454a <http://lambda3.org/graphene/sentence#original-text> "And going to Hunbatz and Hunchouen said to them : `` Keep on playing the flute and singing , painting , and carving ; warm our house and warm the heart of your grandmother ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# `` P. 83 The acceptance of the game and the trip to XibalbaWhen took leave of their mother , Xmucane was moved and burst into tears .
+
+_:45f0782fc16f4473b5cdba4f5f909d0a <http://lambda3.org/graphene/sentence#original-text> "`` P. 83 The acceptance of the game and the trip to XibalbaWhen took leave of their mother , Xmucane was moved and burst into tears ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:45f0782fc16f4473b5cdba4f5f909d0a <http://lambda3.org/graphene/sentence#has-extraction> _:20bd2f1b186649319eb6dd6d31b3039c .
+_:20bd2f1b186649319eb6dd6d31b3039c <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:20bd2f1b186649319eb6dd6d31b3039c <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:20bd2f1b186649319eb6dd6d31b3039c <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#Xmucane> .
+_:20bd2f1b186649319eb6dd6d31b3039c <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#was+moved> .
+_:20bd2f1b186649319eb6dd6d31b3039c <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#> .
+
+_:20bd2f1b186649319eb6dd6d31b3039c <http://lambda3.org/graphene/extraction#L-LIST> _:930ccc2b581e42d586474c812f59ceda .
+
+<http://lambda3.org/graphene/text#Xmucane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Xmucane"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#was+moved> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "was moved"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:45f0782fc16f4473b5cdba4f5f909d0a <http://lambda3.org/graphene/sentence#has-extraction> _:930ccc2b581e42d586474c812f59ceda .
+_:930ccc2b581e42d586474c812f59ceda <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:930ccc2b581e42d586474c812f59ceda <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:930ccc2b581e42d586474c812f59ceda <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#Xmucane> .
+_:930ccc2b581e42d586474c812f59ceda <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#burst> .
+_:930ccc2b581e42d586474c812f59ceda <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#into+tears> .
+
+_:930ccc2b581e42d586474c812f59ceda <http://lambda3.org/graphene/extraction#L-LIST> _:20bd2f1b186649319eb6dd6d31b3039c .
+
+<http://lambda3.org/graphene/text#Xmucane> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Xmucane"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#burst> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "burst"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#into+tears> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "into tears"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# `` Do not worry , we are going , but we have not died yet , '' said Hun-Hunahpii and Vucub-Hunahpu as left .
+
+_:3daef0b343e7404d9ab88a895a1943a1 <http://lambda3.org/graphene/sentence#original-text> "`` Do not worry , we are going , but we have not died yet , '' said Hun-Hunahpii and Vucub-Hunahpu as left ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:3daef0b343e7404d9ab88a895a1943a1 <http://lambda3.org/graphene/sentence#has-extraction> _:16b1b1a480ac476da097c1577a01f4d6 .
+_:16b1b1a480ac476da097c1577a01f4d6 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:16b1b1a480ac476da097c1577a01f4d6 <http://lambda3.org/graphene/extraction#context-layer> "-1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:16b1b1a480ac476da097c1577a01f4d6 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#we> .
+_:16b1b1a480ac476da097c1577a01f4d6 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#are+going> .
+_:16b1b1a480ac476da097c1577a01f4d6 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#> .
+
+
+<http://lambda3.org/graphene/text#we> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "we"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#are+going> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "are going"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# Hun-Hunahpii and Vucub-Hunahpu went immediately and the messengers took them on the road .
+
+_:866b1c3de9394a6685c7c08c99f3f105 <http://lambda3.org/graphene/sentence#original-text> "Hun-Hunahpii and Vucub-Hunahpu went immediately and the messengers took them on the road ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:866b1c3de9394a6685c7c08c99f3f105 <http://lambda3.org/graphene/sentence#has-extraction> _:c017475c721747bd9e9b28312c85237e .
+_:c017475c721747bd9e9b28312c85237e <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:c017475c721747bd9e9b28312c85237e <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:c017475c721747bd9e9b28312c85237e <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#Hun-Hunahpii+and+Vucub-Hunahpu> .
+_:c017475c721747bd9e9b28312c85237e <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#went+immediately> .
+_:c017475c721747bd9e9b28312c85237e <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#> .
+
+_:c017475c721747bd9e9b28312c85237e <http://lambda3.org/graphene/extraction#L-LIST> _:8ec1d9b671264d1aacf576b61e3bed82 .
+
+<http://lambda3.org/graphene/text#Hun-Hunahpii+and+Vucub-Hunahpu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Hun-Hunahpii and Vucub-Hunahpu"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#went+immediately> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "went immediately"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:866b1c3de9394a6685c7c08c99f3f105 <http://lambda3.org/graphene/sentence#has-extraction> _:8ec1d9b671264d1aacf576b61e3bed82 .
+_:8ec1d9b671264d1aacf576b61e3bed82 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:8ec1d9b671264d1aacf576b61e3bed82 <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:8ec1d9b671264d1aacf576b61e3bed82 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#the+messengers> .
+_:8ec1d9b671264d1aacf576b61e3bed82 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#took> .
+_:8ec1d9b671264d1aacf576b61e3bed82 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#them+on+the+road> .
+
+_:8ec1d9b671264d1aacf576b61e3bed82 <http://lambda3.org/graphene/extraction#L-LIST> _:c017475c721747bd9e9b28312c85237e .
+
+<http://lambda3.org/graphene/text#the+messengers> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the messengers"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#took> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "took"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#them+on+the+road> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "them on the road"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# Thus were descending the road to Xibalba , by some very steep stairs .
+
+_:78cc8cb2122944f78b2f72ceb8f25752 <http://lambda3.org/graphene/sentence#original-text> "Thus were descending the road to Xibalba , by some very steep stairs ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:78cc8cb2122944f78b2f72ceb8f25752 <http://lambda3.org/graphene/sentence#has-extraction> _:5414d124f25f4e109863670ee4312904 .
+_:5414d124f25f4e109863670ee4312904 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:5414d124f25f4e109863670ee4312904 <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:5414d124f25f4e109863670ee4312904 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#thus> .
+_:5414d124f25f4e109863670ee4312904 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#were+descending> .
+_:5414d124f25f4e109863670ee4312904 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#the+road+to+Xibalba> .
+
+_:5414d124f25f4e109863670ee4312904 <http://lambda3.org/graphene/extraction#S-UNKNOWN> <http://lambda3.org/graphene/text#by+some+very+steep+stairs+.> .
+
+<http://lambda3.org/graphene/text#thus> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "thus"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#were+descending> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "were descending"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#the+road+to+Xibalba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the road to Xibalba"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#by+some+very+steep+stairs+.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "by some very steep stairs ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# went down until came to the bank of a river which flowed rapidly between the ravines called Nuzivdn cul and Cuzivdn and crossed it .
+
+_:94b8985d88164b43ad6325ecdb7d4093 <http://lambda3.org/graphene/sentence#original-text> "went down until came to the bank of a river which flowed rapidly between the ravines called Nuzivdn cul and Cuzivdn and crossed it ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# Then crossed the river which flows among thorny calabash trees.There were very many calabash trees , but passed through them without hurting themselves .
+
+_:6de23c270dc34afba7b0c1608c9ba33e <http://lambda3.org/graphene/sentence#original-text> "Then crossed the river which flows among thorny calabash trees.There were very many calabash trees , but passed through them without hurting themselves ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:6de23c270dc34afba7b0c1608c9ba33e <http://lambda3.org/graphene/sentence#has-extraction> _:bb04796aa66242a2b48933d728f0d52f .
+_:bb04796aa66242a2b48933d728f0d52f <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:bb04796aa66242a2b48933d728f0d52f <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:bb04796aa66242a2b48933d728f0d52f <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#then> .
+_:bb04796aa66242a2b48933d728f0d52f <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#crossed> .
+_:bb04796aa66242a2b48933d728f0d52f <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#the+river+which+flows+among+thorny+calabash+trees.There+were+very+many+calabash+trees+%2C+but+passed+through+them+without+hurting+themselves> .
+
+
+<http://lambda3.org/graphene/text#then> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "then"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#crossed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "crossed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#the+river+which+flows+among+thorny+calabash+trees.There+were+very+many+calabash+trees+%2C+but+passed+through+them+without+hurting+themselves> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the river which flows among thorny calabash trees.There were very many calabash trees , but passed through them without hurting themselves"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:6de23c270dc34afba7b0c1608c9ba33e <http://lambda3.org/graphene/sentence#has-extraction> _:74906bf7e5144ab09453772865ae46c2 .
+_:74906bf7e5144ab09453772865ae46c2 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:74906bf7e5144ab09453772865ae46c2 <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:74906bf7e5144ab09453772865ae46c2 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#then> .
+_:74906bf7e5144ab09453772865ae46c2 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#crossed+the+river+which+flows+among+thorny+calabash+trees.There+were+very+many+calabash+trees+%2C+but+passed> .
+_:74906bf7e5144ab09453772865ae46c2 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#through+them+without+hurting+themselves> .
+
+
+<http://lambda3.org/graphene/text#then> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "then"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#crossed+the+river+which+flows+among+thorny+calabash+trees.There+were+very+many+calabash+trees+%2C+but+passed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "crossed the river which flows among thorny calabash trees.There were very many calabash trees , but passed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#through+them+without+hurting+themselves> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "through them without hurting themselves"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# P. 86 The defeat of Hun-Hunahpu `` Well .
+
+_:23a2a8f8a2f84f73929157e03d751e8d <http://lambda3.org/graphene/sentence#original-text> "P. 86 The defeat of Hun-Hunahpu `` Well ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:23a2a8f8a2f84f73929157e03d751e8d <http://lambda3.org/graphene/sentence#has-extraction> _:2d736fc63bec4ac19e2491f1eccb04d7 .
+_:2d736fc63bec4ac19e2491f1eccb04d7 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:2d736fc63bec4ac19e2491f1eccb04d7 <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:2d736fc63bec4ac19e2491f1eccb04d7 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#p.+86> .
+_:2d736fc63bec4ac19e2491f1eccb04d7 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#Hun-Hunahpu+%60%60+Well> .
+_:2d736fc63bec4ac19e2491f1eccb04d7 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#> .
+
+
+<http://lambda3.org/graphene/text#p.+86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "p. 86"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#Hun-Hunahpu+%60%60+Well> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Hun-Hunahpu `` Well"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# Today shall be the end of your days .
+
+_:dcc8b66dc7584c818a5c782a27551017 <http://lambda3.org/graphene/sentence#original-text> "Today shall be the end of your days ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:dcc8b66dc7584c818a5c782a27551017 <http://lambda3.org/graphene/sentence#has-extraction> _:7c84a84af9f5400e9d02c1bfee16e581 .
+_:7c84a84af9f5400e9d02c1bfee16e581 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:7c84a84af9f5400e9d02c1bfee16e581 <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:7c84a84af9f5400e9d02c1bfee16e581 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#today> .
+_:7c84a84af9f5400e9d02c1bfee16e581 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#shall+be> .
+_:7c84a84af9f5400e9d02c1bfee16e581 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#the+end+of+your+days> .
+
+_:7c84a84af9f5400e9d02c1bfee16e581 <http://lambda3.org/graphene/extraction#L-BACKGROUND> _:10db414c38c64ceea3d682e2af6a489c .
+
+<http://lambda3.org/graphene/text#today> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "today"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#shall+be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "shall be"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#the+end+of+your+days> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the end of your days"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# Now you shall die .
+
+_:92fc88f5fcaf4fd2b9ed050b55541d50 <http://lambda3.org/graphene/sentence#original-text> "Now you shall die ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:92fc88f5fcaf4fd2b9ed050b55541d50 <http://lambda3.org/graphene/sentence#has-extraction> _:10db414c38c64ceea3d682e2af6a489c .
+_:10db414c38c64ceea3d682e2af6a489c <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:10db414c38c64ceea3d682e2af6a489c <http://lambda3.org/graphene/extraction#context-layer> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:10db414c38c64ceea3d682e2af6a489c <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#you> .
+_:10db414c38c64ceea3d682e2af6a489c <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#shall+die> .
+_:10db414c38c64ceea3d682e2af6a489c <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#> .
+
+
+<http://lambda3.org/graphene/text#you> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "you"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#shall+die> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "shall die"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# You shall be destroyed , we will break you into pieces and here your faces will stay hidden .
+
+_:7889abcdd67d4e57ad607f2e31e4e5b6 <http://lambda3.org/graphene/sentence#original-text> "You shall be destroyed , we will break you into pieces and here your faces will stay hidden ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:7889abcdd67d4e57ad607f2e31e4e5b6 <http://lambda3.org/graphene/sentence#has-extraction> _:8ef706d89c5a4c0e964d16e5f7f82293 .
+_:8ef706d89c5a4c0e964d16e5f7f82293 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:8ef706d89c5a4c0e964d16e5f7f82293 <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:8ef706d89c5a4c0e964d16e5f7f82293 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#you> .
+_:8ef706d89c5a4c0e964d16e5f7f82293 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#shall+be+destroyed> .
+_:8ef706d89c5a4c0e964d16e5f7f82293 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#> .
+
+
+<http://lambda3.org/graphene/text#you> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "you"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#shall+be+destroyed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "shall be destroyed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:7889abcdd67d4e57ad607f2e31e4e5b6 <http://lambda3.org/graphene/sentence#has-extraction> _:5be289fc854e4975a34ed9326e6eda81 .
+_:5be289fc854e4975a34ed9326e6eda81 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:5be289fc854e4975a34ed9326e6eda81 <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:5be289fc854e4975a34ed9326e6eda81 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#we> .
+_:5be289fc854e4975a34ed9326e6eda81 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#will+break> .
+_:5be289fc854e4975a34ed9326e6eda81 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#you+into+pieces> .
+
+
+<http://lambda3.org/graphene/text#we> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "we"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#will+break> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "will break"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#you+into+pieces> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "you into pieces"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:7889abcdd67d4e57ad607f2e31e4e5b6 <http://lambda3.org/graphene/sentence#has-extraction> _:fa62d3990bb64de79434a07e97e1a13c .
+_:fa62d3990bb64de79434a07e97e1a13c <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:fa62d3990bb64de79434a07e97e1a13c <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:fa62d3990bb64de79434a07e97e1a13c <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#your+faces> .
+_:fa62d3990bb64de79434a07e97e1a13c <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#will+stay+hidden> .
+_:fa62d3990bb64de79434a07e97e1a13c <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#> .
+
+
+<http://lambda3.org/graphene/text#your+faces> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "your faces"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#will+stay+hidden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "will stay hidden"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# You shall be sacrificed , '' said Hun - Came and Vucub-Came .
+
+_:2f6ddb91b6424453a9f528bd47332042 <http://lambda3.org/graphene/sentence#original-text> "You shall be sacrificed , '' said Hun - Came and Vucub-Came ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:2f6ddb91b6424453a9f528bd47332042 <http://lambda3.org/graphene/sentence#has-extraction> _:6431d74cf4be48ecae59ddfb1ef6fbff .
+_:6431d74cf4be48ecae59ddfb1ef6fbff <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:6431d74cf4be48ecae59ddfb1ef6fbff <http://lambda3.org/graphene/extraction#context-layer> "-1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:6431d74cf4be48ecae59ddfb1ef6fbff <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#you> .
+_:6431d74cf4be48ecae59ddfb1ef6fbff <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#shall+be+sacrificed> .
+_:6431d74cf4be48ecae59ddfb1ef6fbff <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#> .
+
+
+<http://lambda3.org/graphene/text#you> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "you"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#shall+be+sacrificed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "shall be sacrificed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# sacrificed them immediately and buried them in the Pucbal-Chah , as was called .
+
+_:4064872966b74e60ba345c531e557f74 <http://lambda3.org/graphene/sentence#original-text> "sacrificed them immediately and buried them in the Pucbal-Chah , as was called ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# 15 Before burying them , ig cut off the head of Hun-Hunahpii and buried the older brother together with the younger brother .
+
+_:045b422dba7d447090203e656e37ed3a <http://lambda3.org/graphene/sentence#original-text> "15 Before burying them , ig cut off the head of Hun-Hunahpii and buried the older brother together with the younger brother ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:045b422dba7d447090203e656e37ed3a <http://lambda3.org/graphene/sentence#has-extraction> _:4dc85bafddda4e1caa31de80b556ef87 .
+_:4dc85bafddda4e1caa31de80b556ef87 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:4dc85bafddda4e1caa31de80b556ef87 <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:4dc85bafddda4e1caa31de80b556ef87 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#ig> .
+_:4dc85bafddda4e1caa31de80b556ef87 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#cut+off> .
+_:4dc85bafddda4e1caa31de80b556ef87 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#the+head+of+Hun-Hunahpii> .
+
+_:4dc85bafddda4e1caa31de80b556ef87 <http://lambda3.org/graphene/extraction#L-LIST> _:7bf632e630f34b3c8d01c2a2d7dbc04c .
+_:4dc85bafddda4e1caa31de80b556ef87 <http://lambda3.org/graphene/extraction#L-TEMPORAL_AFTER> _:497962582b3b4f398a25b0bf1cdd9525 .
+
+<http://lambda3.org/graphene/text#ig> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "ig"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#cut+off> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "cut off"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#the+head+of+Hun-Hunahpii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the head of Hun-Hunahpii"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:045b422dba7d447090203e656e37ed3a <http://lambda3.org/graphene/sentence#has-extraction> _:7bf632e630f34b3c8d01c2a2d7dbc04c .
+_:7bf632e630f34b3c8d01c2a2d7dbc04c <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:7bf632e630f34b3c8d01c2a2d7dbc04c <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:7bf632e630f34b3c8d01c2a2d7dbc04c <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#ig> .
+_:7bf632e630f34b3c8d01c2a2d7dbc04c <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#buried> .
+_:7bf632e630f34b3c8d01c2a2d7dbc04c <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#the+older+brother+together+with+the+younger+brother> .
+
+_:7bf632e630f34b3c8d01c2a2d7dbc04c <http://lambda3.org/graphene/extraction#L-LIST> _:4dc85bafddda4e1caa31de80b556ef87 .
+_:7bf632e630f34b3c8d01c2a2d7dbc04c <http://lambda3.org/graphene/extraction#L-TEMPORAL_AFTER> _:497962582b3b4f398a25b0bf1cdd9525 .
+
+<http://lambda3.org/graphene/text#ig> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "ig"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#buried> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "buried"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#the+older+brother+together+with+the+younger+brother> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the older brother together with the younger brother"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:045b422dba7d447090203e656e37ed3a <http://lambda3.org/graphene/sentence#has-extraction> _:497962582b3b4f398a25b0bf1cdd9525 .
+_:497962582b3b4f398a25b0bf1cdd9525 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:497962582b3b4f398a25b0bf1cdd9525 <http://lambda3.org/graphene/extraction#context-layer> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:497962582b3b4f398a25b0bf1cdd9525 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#ig> .
+_:497962582b3b4f398a25b0bf1cdd9525 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#was+burying> .
+_:497962582b3b4f398a25b0bf1cdd9525 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#them> .
+
+
+<http://lambda3.org/graphene/text#ig> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "ig"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#was+burying> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "was burying"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#them> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "them"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# `` Take the head and put in that tree which is Planted on the road , '' said Hun-Came and Vucub - Came .
+
+_:f455d5e4a5014e9f9bed4db7182aaeff <http://lambda3.org/graphene/sentence#original-text> "`` Take the head and put in that tree which is Planted on the road , '' said Hun-Came and Vucub - Came ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# And having put the head in the tree , instantly the tree , which had never borne fruit before the head of Hun-Hunahpii was placed among its branches , was covered with fruit .
+
+_:f2c1acff7ba14f1a88936605a7d4aca9 <http://lambda3.org/graphene/sentence#original-text> "And having put the head in the tree , instantly the tree , which had never borne fruit before the head of Hun-Hunahpii was placed among its branches , was covered with fruit ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:f2c1acff7ba14f1a88936605a7d4aca9 <http://lambda3.org/graphene/sentence#has-extraction> _:17c986b489cd4c24bc3037f6fce3be6f .
+_:17c986b489cd4c24bc3037f6fce3be6f <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:17c986b489cd4c24bc3037f6fce3be6f <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:17c986b489cd4c24bc3037f6fce3be6f <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#the+tree> .
+_:17c986b489cd4c24bc3037f6fce3be6f <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#were> .
+_:17c986b489cd4c24bc3037f6fce3be6f <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#having+put+the+head+in+the+tree> .
+
+_:17c986b489cd4c24bc3037f6fce3be6f <http://lambda3.org/graphene/extraction#S-NOUN_BASED> <http://lambda3.org/graphene/text#the+tree+had+never+borne+fruit+.> .
+_:17c986b489cd4c24bc3037f6fce3be6f <http://lambda3.org/graphene/extraction#S-TEMPORAL_AFTER> <http://lambda3.org/graphene/text#before+the+head+of+Hun-Hunahpii+was+placed+among+its+branches+.> .
+_:17c986b489cd4c24bc3037f6fce3be6f <http://lambda3.org/graphene/extraction#L-LIST> _:bdb931fa3a0c4954877fc07e54ee5907 .
+_:17c986b489cd4c24bc3037f6fce3be6f <http://lambda3.org/graphene/extraction#L-NOUN_BASED> _:b1d660b40f2f4d8c9f4fbbd925acfe6b .
+
+<http://lambda3.org/graphene/text#the+tree> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the tree"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#were> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "were"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#having+put+the+head+in+the+tree> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "having put the head in the tree"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#the+tree+had+never+borne+fruit+.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the tree had never borne fruit ."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#before+the+head+of+Hun-Hunahpii+was+placed+among+its+branches+.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "before the head of Hun-Hunahpii was placed among its branches ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:f2c1acff7ba14f1a88936605a7d4aca9 <http://lambda3.org/graphene/sentence#has-extraction> _:b1d660b40f2f4d8c9f4fbbd925acfe6b .
+_:b1d660b40f2f4d8c9f4fbbd925acfe6b <http://lambda3.org/graphene/extraction#extraction-type> "NOUN_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b1d660b40f2f4d8c9f4fbbd925acfe6b <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b1d660b40f2f4d8c9f4fbbd925acfe6b <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#the+tree> .
+_:b1d660b40f2f4d8c9f4fbbd925acfe6b <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#had+never+borne> .
+_:b1d660b40f2f4d8c9f4fbbd925acfe6b <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#fruit> .
+
+
+<http://lambda3.org/graphene/text#the+tree> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the tree"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#had+never+borne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "had never borne"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#fruit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "fruit"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:f2c1acff7ba14f1a88936605a7d4aca9 <http://lambda3.org/graphene/sentence#has-extraction> _:cd1d2808c4864178b8339bc363033419 .
+_:cd1d2808c4864178b8339bc363033419 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:cd1d2808c4864178b8339bc363033419 <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:cd1d2808c4864178b8339bc363033419 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#the+tree> .
+_:cd1d2808c4864178b8339bc363033419 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#was+covered> .
+_:cd1d2808c4864178b8339bc363033419 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#with+fruit> .
+
+_:cd1d2808c4864178b8339bc363033419 <http://lambda3.org/graphene/extraction#S-NOUN_BASED> <http://lambda3.org/graphene/text#the+tree+had+never+borne+fruit+.> .
+_:cd1d2808c4864178b8339bc363033419 <http://lambda3.org/graphene/extraction#S-TEMPORAL_AFTER> <http://lambda3.org/graphene/text#before+the+head+of+Hun-Hunahpii+was+placed+among+its+branches+.> .
+_:cd1d2808c4864178b8339bc363033419 <http://lambda3.org/graphene/extraction#L-LIST> _:bdb931fa3a0c4954877fc07e54ee5907 .
+_:cd1d2808c4864178b8339bc363033419 <http://lambda3.org/graphene/extraction#L-NOUN_BASED> _:7b276319fdee4d71b118017f3c81600c .
+
+<http://lambda3.org/graphene/text#the+tree> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the tree"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#was+covered> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "was covered"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#with+fruit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "with fruit"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#the+tree+had+never+borne+fruit+.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the tree had never borne fruit ."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#before+the+head+of+Hun-Hunahpii+was+placed+among+its+branches+.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "before the head of Hun-Hunahpii was placed among its branches ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:f2c1acff7ba14f1a88936605a7d4aca9 <http://lambda3.org/graphene/sentence#has-extraction> _:7b276319fdee4d71b118017f3c81600c .
+_:7b276319fdee4d71b118017f3c81600c <http://lambda3.org/graphene/extraction#extraction-type> "NOUN_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:7b276319fdee4d71b118017f3c81600c <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:7b276319fdee4d71b118017f3c81600c <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#the+tree> .
+_:7b276319fdee4d71b118017f3c81600c <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#had+never+borne> .
+_:7b276319fdee4d71b118017f3c81600c <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#fruit> .
+
+
+<http://lambda3.org/graphene/text#the+tree> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the tree"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#had+never+borne> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "had never borne"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#fruit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "fruit"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# And this calabash tree , is said , is the one which we now call the head of Hun-Hunahpu .
+
+_:c612d0348b044fa292a9db304689895f <http://lambda3.org/graphene/sentence#original-text> "And this calabash tree , is said , is the one which we now call the head of Hun-Hunahpu ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:c612d0348b044fa292a9db304689895f <http://lambda3.org/graphene/sentence#has-extraction> _:bdb931fa3a0c4954877fc07e54ee5907 .
+_:bdb931fa3a0c4954877fc07e54ee5907 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:bdb931fa3a0c4954877fc07e54ee5907 <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:bdb931fa3a0c4954877fc07e54ee5907 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#this+calabash+tree+%2C+is+said+%2C> .
+_:bdb931fa3a0c4954877fc07e54ee5907 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#is> .
+_:bdb931fa3a0c4954877fc07e54ee5907 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#the+one+which+we+now+call+the+head+of+Hun-Hunahpu> .
+
+_:bdb931fa3a0c4954877fc07e54ee5907 <http://lambda3.org/graphene/extraction#L-LIST> _:17c986b489cd4c24bc3037f6fce3be6f .
+_:bdb931fa3a0c4954877fc07e54ee5907 <http://lambda3.org/graphene/extraction#L-LIST> _:cd1d2808c4864178b8339bc363033419 .
+
+<http://lambda3.org/graphene/text#this+calabash+tree+%2C+is+said+%2C> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "this calabash tree , is said ,"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#is> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "is"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#the+one+which+we+now+call+the+head+of+Hun-Hunahpu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the one which we now call the head of Hun-Hunahpu"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# Hun-Came and Vucub-Came looked in amazement at the fruit on the tree .
+
+_:8f7072aa6c1349fd8dc33753a9af15ac <http://lambda3.org/graphene/sentence#original-text> "Hun-Came and Vucub-Came looked in amazement at the fruit on the tree ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:8f7072aa6c1349fd8dc33753a9af15ac <http://lambda3.org/graphene/sentence#has-extraction> _:32bb2ff5da3749eaac5297dd265a9ecf .
+_:32bb2ff5da3749eaac5297dd265a9ecf <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:32bb2ff5da3749eaac5297dd265a9ecf <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:32bb2ff5da3749eaac5297dd265a9ecf <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#hun-came+and+Vucub-Came> .
+_:32bb2ff5da3749eaac5297dd265a9ecf <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#looked> .
+_:32bb2ff5da3749eaac5297dd265a9ecf <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#in+amazement+at+the+fruit+on+the+tree> .
+
+
+<http://lambda3.org/graphene/text#hun-came+and+Vucub-Came> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "hun-came and Vucub-Came"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#looked> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "looked"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#in+amazement+at+the+fruit+on+the+tree> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "in amazement at the fruit on the tree"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# The round fruit was everywhere ; but did not recognize the head of Hun-Hunahpu ; was exactly like the other fruit of the calabash tree .
+
+_:dd805acce10346e4b5f6dc76fe17b7f9 <http://lambda3.org/graphene/sentence#original-text> "The round fruit was everywhere ; but did not recognize the head of Hun-Hunahpu ; was exactly like the other fruit of the calabash tree ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:dd805acce10346e4b5f6dc76fe17b7f9 <http://lambda3.org/graphene/sentence#has-extraction> _:44a24ff7506d4cf4947ccecef23ad62c .
+_:44a24ff7506d4cf4947ccecef23ad62c <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:44a24ff7506d4cf4947ccecef23ad62c <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:44a24ff7506d4cf4947ccecef23ad62c <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#the+round+fruit> .
+_:44a24ff7506d4cf4947ccecef23ad62c <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#was+everywhere> .
+_:44a24ff7506d4cf4947ccecef23ad62c <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#> .
+
+
+<http://lambda3.org/graphene/text#the+round+fruit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the round fruit"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#was+everywhere> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "was everywhere"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:dd805acce10346e4b5f6dc76fe17b7f9 <http://lambda3.org/graphene/sentence#has-extraction> _:bb4301c0b58c493587f2b86442215f3b .
+_:bb4301c0b58c493587f2b86442215f3b <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:bb4301c0b58c493587f2b86442215f3b <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:bb4301c0b58c493587f2b86442215f3b <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#the+round+fruit> .
+_:bb4301c0b58c493587f2b86442215f3b <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#did+not+recognize> .
+_:bb4301c0b58c493587f2b86442215f3b <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#the+head+of+Hun-Hunahpu> .
+
+
+<http://lambda3.org/graphene/text#the+round+fruit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the round fruit"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#did+not+recognize> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "did not recognize"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#the+head+of+Hun-Hunahpu> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the head of Hun-Hunahpu"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:dd805acce10346e4b5f6dc76fe17b7f9 <http://lambda3.org/graphene/sentence#has-extraction> _:d34e4145d8384b2ea312f7160cd27e4e .
+_:d34e4145d8384b2ea312f7160cd27e4e <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:d34e4145d8384b2ea312f7160cd27e4e <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:d34e4145d8384b2ea312f7160cd27e4e <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#the+round+fruit> .
+_:d34e4145d8384b2ea312f7160cd27e4e <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#was+exactly> .
+_:d34e4145d8384b2ea312f7160cd27e4e <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#like+the+other+fruit+of+the+calabash+tree> .
+
+
+<http://lambda3.org/graphene/text#the+round+fruit> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the round fruit"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#was+exactly> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "was exactly"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#like+the+other+fruit+of+the+calabash+tree> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "like the other fruit of the calabash tree"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# So seemed to all of the people of Xibalba when came to look at it .
+
+_:b98894ebcba84bfaa0c73a4b5bfb37dd <http://lambda3.org/graphene/sentence#original-text> "So seemed to all of the people of Xibalba when came to look at it ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# According to their judgment , the tree was miraculous , because of what had instantly occurred when put Hun-Hunahpu ' s head among its branches .
+
+_:9d1158cfea6c4796a8eacd9de7d614d1 <http://lambda3.org/graphene/sentence#original-text> "According to their judgment , the tree was miraculous , because of what had instantly occurred when put Hun-Hunahpu ' s head among its branches ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:9d1158cfea6c4796a8eacd9de7d614d1 <http://lambda3.org/graphene/sentence#has-extraction> _:b0d20f041aa94cccb431a7e01ababa44 .
+_:b0d20f041aa94cccb431a7e01ababa44 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b0d20f041aa94cccb431a7e01ababa44 <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b0d20f041aa94cccb431a7e01ababa44 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#the+tree> .
+_:b0d20f041aa94cccb431a7e01ababa44 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#was+miraculous> .
+_:b0d20f041aa94cccb431a7e01ababa44 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#> .
+
+_:b0d20f041aa94cccb431a7e01ababa44 <http://lambda3.org/graphene/extraction#S-BACKGROUND> <http://lambda3.org/graphene/text#when+according+to+their+judgment+.> .
+_:b0d20f041aa94cccb431a7e01ababa44 <http://lambda3.org/graphene/extraction#S-CAUSE> <http://lambda3.org/graphene/text#because+of+what+had+instantly+occurred+when+put+Hun-Hunahpu+%27+s+head+among+its+branches+.> .
+_:b0d20f041aa94cccb431a7e01ababa44 <http://lambda3.org/graphene/extraction#L-LIST> _:8e62e9cb319540b7b5b5fe0e7d445526 .
+
+<http://lambda3.org/graphene/text#the+tree> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the tree"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#was+miraculous> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "was miraculous"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#when+according+to+their+judgment+.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "when according to their judgment ."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#because+of+what+had+instantly+occurred+when+put+Hun-Hunahpu+%27+s+head+among+its+branches+.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "because of what had instantly occurred when put Hun-Hunahpu ' s head among its branches ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# And the Lords of XibalbaWhen said : `` Let no one come to pick this fruit , n Let no one come and sit under this tree ! ''
+
+_:a3198d60973443d6810f010a64a80eb0 <http://lambda3.org/graphene/sentence#original-text> "And the Lords of XibalbaWhen said : `` Let no one come to pick this fruit , n Let no one come and sit under this tree ! ''"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:a3198d60973443d6810f010a64a80eb0 <http://lambda3.org/graphene/sentence#has-extraction> _:8e62e9cb319540b7b5b5fe0e7d445526 .
+_:8e62e9cb319540b7b5b5fe0e7d445526 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:8e62e9cb319540b7b5b5fe0e7d445526 <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:8e62e9cb319540b7b5b5fe0e7d445526 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#The+Lords+of+XibalbaWhen> .
+_:8e62e9cb319540b7b5b5fe0e7d445526 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#said+%3A+%60%60> .
+_:8e62e9cb319540b7b5b5fe0e7d445526 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#Let+no+one+come+to+pick+this+fruit+%2C+n+Let+no+one+come+and+sit+under+this+tree+%21+%27%27> .
+
+_:8e62e9cb319540b7b5b5fe0e7d445526 <http://lambda3.org/graphene/extraction#L-LIST> _:b0d20f041aa94cccb431a7e01ababa44 .
+
+<http://lambda3.org/graphene/text#The+Lords+of+XibalbaWhen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "The Lords of XibalbaWhen"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#said+%3A+%60%60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "said : ``"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#Let+no+one+come+to+pick+this+fruit+%2C+n+Let+no+one+come+and+sit+under+this+tree+%21+%27%27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Let no one come to pick this fruit , n Let no one come and sit under this tree ! ''"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# said , and so the Lords of XibalbaWhen resolved to keep everybody away .
+
+_:e4c2d1bbf7f04296bd2f521ca65f2dd9 <http://lambda3.org/graphene/sentence#original-text> "said , and so the Lords of XibalbaWhen resolved to keep everybody away ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:e4c2d1bbf7f04296bd2f521ca65f2dd9 <http://lambda3.org/graphene/sentence#has-extraction> _:6a0c242a76c44a7d86727f3376a5017d .
+_:6a0c242a76c44a7d86727f3376a5017d <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:6a0c242a76c44a7d86727f3376a5017d <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:6a0c242a76c44a7d86727f3376a5017d <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#the+Lords+of+XibalbaWhen> .
+_:6a0c242a76c44a7d86727f3376a5017d <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#resolved> .
+_:6a0c242a76c44a7d86727f3376a5017d <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#to+keep+everybody+away> .
+
+
+<http://lambda3.org/graphene/text#the+Lords+of+XibalbaWhen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the Lords of XibalbaWhen"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#resolved> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "resolved"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#to+keep+everybody+away> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "to keep everybody away"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# The head of Hun-Hunahpii did not appear again is because had become one and the same as the fruit of the gourd tree .
+
+_:5a4fcfa713f74d6ba6f94b22826c617b <http://lambda3.org/graphene/sentence#original-text> "The head of Hun-Hunahpii did not appear again is because had become one and the same as the fruit of the gourd tree ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:5a4fcfa713f74d6ba6f94b22826c617b <http://lambda3.org/graphene/sentence#has-extraction> _:4488174af24a4853940cc159949b7692 .
+_:4488174af24a4853940cc159949b7692 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:4488174af24a4853940cc159949b7692 <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:4488174af24a4853940cc159949b7692 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#the+head+of+Hun-Hunahpii+did+not+appear+again> .
+_:4488174af24a4853940cc159949b7692 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#is> .
+_:4488174af24a4853940cc159949b7692 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#because+had+become+one+as+the+fruit+of+the+gourd+tree> .
+
+_:4488174af24a4853940cc159949b7692 <http://lambda3.org/graphene/extraction#L-LIST> _:485b781eb1134dfc8498808ed04d3864 .
+
+<http://lambda3.org/graphene/text#the+head+of+Hun-Hunahpii+did+not+appear+again> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the head of Hun-Hunahpii did not appear again"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#is> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "is"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#because+had+become+one+as+the+fruit+of+the+gourd+tree> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "because had become one as the fruit of the gourd tree"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:5a4fcfa713f74d6ba6f94b22826c617b <http://lambda3.org/graphene/sentence#has-extraction> _:485b781eb1134dfc8498808ed04d3864 .
+_:485b781eb1134dfc8498808ed04d3864 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:485b781eb1134dfc8498808ed04d3864 <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:485b781eb1134dfc8498808ed04d3864 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#the+head+of+Hun-Hunahpii+did+not+appear+again> .
+_:485b781eb1134dfc8498808ed04d3864 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#is> .
+_:485b781eb1134dfc8498808ed04d3864 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#because+had+become+the+same+as+the+fruit+of+the+gourd+tree> .
+
+_:485b781eb1134dfc8498808ed04d3864 <http://lambda3.org/graphene/extraction#L-LIST> _:4488174af24a4853940cc159949b7692 .
+
+<http://lambda3.org/graphene/text#the+head+of+Hun-Hunahpii+did+not+appear+again> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the head of Hun-Hunahpii did not appear again"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#is> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "is"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#because+had+become+the+same+as+the+fruit+of+the+gourd+tree> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "because had become the same as the fruit of the gourd tree"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# Nevertheless , a girl heard the wonderful story .
+
+_:5b00b4c614a94135a1aace1320c89b02 <http://lambda3.org/graphene/sentence#original-text> "Nevertheless , a girl heard the wonderful story ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:5b00b4c614a94135a1aace1320c89b02 <http://lambda3.org/graphene/sentence#has-extraction> _:1a6ace19d83f435b9740f7c55b62aed5 .
+_:1a6ace19d83f435b9740f7c55b62aed5 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:1a6ace19d83f435b9740f7c55b62aed5 <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:1a6ace19d83f435b9740f7c55b62aed5 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#a+girl> .
+_:1a6ace19d83f435b9740f7c55b62aed5 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#heard> .
+_:1a6ace19d83f435b9740f7c55b62aed5 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#the+wonderful+story> .
+
+_:1a6ace19d83f435b9740f7c55b62aed5 <http://lambda3.org/graphene/extraction#S-UNKNOWN> <http://lambda3.org/graphene/text#nevertheless+.> .
+_:1a6ace19d83f435b9740f7c55b62aed5 <http://lambda3.org/graphene/extraction#L-BACKGROUND> _:e52b78d42c4d49e3968579ca8634e43b .
+
+<http://lambda3.org/graphene/text#a+girl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "a girl"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#heard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "heard"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#the+wonderful+story> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the wonderful story"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#nevertheless+.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "nevertheless ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# Now we shall tell about Hun-Hunahpii 's arrival .
+
+_:d996eaae7af24010b88b05488460d5c7 <http://lambda3.org/graphene/sentence#original-text> "Now we shall tell about Hun-Hunahpii 's arrival ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:d996eaae7af24010b88b05488460d5c7 <http://lambda3.org/graphene/sentence#has-extraction> _:e52b78d42c4d49e3968579ca8634e43b .
+_:e52b78d42c4d49e3968579ca8634e43b <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:e52b78d42c4d49e3968579ca8634e43b <http://lambda3.org/graphene/extraction#context-layer> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:e52b78d42c4d49e3968579ca8634e43b <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#we> .
+_:e52b78d42c4d49e3968579ca8634e43b <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#shall+tell> .
+_:e52b78d42c4d49e3968579ca8634e43b <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#> .
+
+_:e52b78d42c4d49e3968579ca8634e43b <http://lambda3.org/graphene/extraction#S-UNKNOWN> <http://lambda3.org/graphene/text#about+Hun-Hunahpii+%27s+arrival+.> .
+
+<http://lambda3.org/graphene/text#we> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "we"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#shall+tell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "shall tell"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#about+Hun-Hunahpii+%27s+arrival+.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "about Hun-Hunahpii 's arrival ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# P. 90 The Birth of Hunahpii and XbalanqueHis is the story of a maiden , the daughter of a lord named Cuchumaquic .
+
+_:b61319dbf4d546b082f5b6a36a368ceb <http://lambda3.org/graphene/sentence#original-text> "P. 90 The Birth of Hunahpii and XbalanqueHis is the story of a maiden , the daughter of a lord named Cuchumaquic ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:b61319dbf4d546b082f5b6a36a368ceb <http://lambda3.org/graphene/sentence#has-extraction> _:1f3752ad1cd64ab49a337d20abe63dcb .
+_:1f3752ad1cd64ab49a337d20abe63dcb <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:1f3752ad1cd64ab49a337d20abe63dcb <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:1f3752ad1cd64ab49a337d20abe63dcb <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#p.+90+The+Birth+of+Hunahpii+and+XbalanqueHis> .
+_:1f3752ad1cd64ab49a337d20abe63dcb <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#is> .
+_:1f3752ad1cd64ab49a337d20abe63dcb <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#the+story+of+a+maiden> .
+
+_:1f3752ad1cd64ab49a337d20abe63dcb <http://lambda3.org/graphene/extraction#S-NOUN_BASED> <http://lambda3.org/graphene/text#the+daughter+of+a+lord+named+Cuchumaquic+is+a+maiden+.> .
+_:1f3752ad1cd64ab49a337d20abe63dcb <http://lambda3.org/graphene/extraction#L-TEMPORAL_AFTER_C> _:0ce5d8a16da84c34b1b6a17c394687e5 .
+_:1f3752ad1cd64ab49a337d20abe63dcb <http://lambda3.org/graphene/extraction#L-NOUN_BASED> _:564f2484bff741b7b9f33bfd0617bb56 .
+
+<http://lambda3.org/graphene/text#p.+90+The+Birth+of+Hunahpii+and+XbalanqueHis> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "p. 90 The Birth of Hunahpii and XbalanqueHis"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#is> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "is"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#the+story+of+a+maiden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the story of a maiden"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#the+daughter+of+a+lord+named+Cuchumaquic+is+a+maiden+.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the daughter of a lord named Cuchumaquic is a maiden ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:b61319dbf4d546b082f5b6a36a368ceb <http://lambda3.org/graphene/sentence#has-extraction> _:564f2484bff741b7b9f33bfd0617bb56 .
+_:564f2484bff741b7b9f33bfd0617bb56 <http://lambda3.org/graphene/extraction#extraction-type> "NOUN_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:564f2484bff741b7b9f33bfd0617bb56 <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:564f2484bff741b7b9f33bfd0617bb56 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#the+daughter+of+a+lord> .
+_:564f2484bff741b7b9f33bfd0617bb56 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#named> .
+_:564f2484bff741b7b9f33bfd0617bb56 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#Cuchumaquic+is+a+maiden> .
+
+
+<http://lambda3.org/graphene/text#the+daughter+of+a+lord> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the daughter of a lord"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#named> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "named"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#Cuchumaquic+is+a+maiden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Cuchumaquic is a maiden"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# A maiden , then , daughter of a lord heard this story .
+
+_:e0ac0bbf5a024ea1970714bf121fd66c <http://lambda3.org/graphene/sentence#original-text> "A maiden , then , daughter of a lord heard this story ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:e0ac0bbf5a024ea1970714bf121fd66c <http://lambda3.org/graphene/sentence#has-extraction> _:0ce5d8a16da84c34b1b6a17c394687e5 .
+_:0ce5d8a16da84c34b1b6a17c394687e5 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:0ce5d8a16da84c34b1b6a17c394687e5 <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:0ce5d8a16da84c34b1b6a17c394687e5 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#a+maiden+daughter+of+a+lord> .
+_:0ce5d8a16da84c34b1b6a17c394687e5 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#heard> .
+_:0ce5d8a16da84c34b1b6a17c394687e5 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#this+story> .
+
+_:0ce5d8a16da84c34b1b6a17c394687e5 <http://lambda3.org/graphene/extraction#L-TEMPORAL_BEFORE_C> _:1f3752ad1cd64ab49a337d20abe63dcb .
+
+<http://lambda3.org/graphene/text#a+maiden+daughter+of+a+lord> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "a maiden daughter of a lord"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#heard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "heard"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#this+story> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "this story"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# The name of the father was Cuchumaquic and that of the maiden was Xquic .
+
+_:d1445d87c42e4492a137a749d35f5003 <http://lambda3.org/graphene/sentence#original-text> "The name of the father was Cuchumaquic and that of the maiden was Xquic ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:d1445d87c42e4492a137a749d35f5003 <http://lambda3.org/graphene/sentence#has-extraction> _:1a8ab728c71e44699cd4be9903faa811 .
+_:1a8ab728c71e44699cd4be9903faa811 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:1a8ab728c71e44699cd4be9903faa811 <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:1a8ab728c71e44699cd4be9903faa811 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#the+name+of+the+father> .
+_:1a8ab728c71e44699cd4be9903faa811 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#was> .
+_:1a8ab728c71e44699cd4be9903faa811 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#Cuchumaquic> .
+
+_:1a8ab728c71e44699cd4be9903faa811 <http://lambda3.org/graphene/extraction#L-LIST> _:8989fc8927044e5ba6ea862c007057cd .
+
+<http://lambda3.org/graphene/text#the+name+of+the+father> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the name of the father"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#was> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "was"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#Cuchumaquic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Cuchumaquic"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:d1445d87c42e4492a137a749d35f5003 <http://lambda3.org/graphene/sentence#has-extraction> _:8989fc8927044e5ba6ea862c007057cd .
+_:8989fc8927044e5ba6ea862c007057cd <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:8989fc8927044e5ba6ea862c007057cd <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:8989fc8927044e5ba6ea862c007057cd <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#that+of+the+maiden> .
+_:8989fc8927044e5ba6ea862c007057cd <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#was> .
+_:8989fc8927044e5ba6ea862c007057cd <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#Xquic> .
+
+_:8989fc8927044e5ba6ea862c007057cd <http://lambda3.org/graphene/extraction#L-LIST> _:1a8ab728c71e44699cd4be9903faa811 .
+
+<http://lambda3.org/graphene/text#that+of+the+maiden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "that of the maiden"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#was> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "was"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#Xquic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Xquic"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# 1 When Hun-Hunahpii heard the story of the fruit of the tree which Hun-Hunahpii 's father told , Hun-Hunahpii was amazed to hear it .
+
+_:95df80d9f62b47baa515b16c120c6c24 <http://lambda3.org/graphene/sentence#original-text> "1 When Hun-Hunahpii heard the story of the fruit of the tree which Hun-Hunahpii 's father told , Hun-Hunahpii was amazed to hear it ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:95df80d9f62b47baa515b16c120c6c24 <http://lambda3.org/graphene/sentence#has-extraction> _:53d8de9d2d664bb19a9e151a64f3c5ae .
+_:53d8de9d2d664bb19a9e151a64f3c5ae <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:53d8de9d2d664bb19a9e151a64f3c5ae <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:53d8de9d2d664bb19a9e151a64f3c5ae <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#Hun-Hunahpii> .
+_:53d8de9d2d664bb19a9e151a64f3c5ae <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#was+amazed> .
+_:53d8de9d2d664bb19a9e151a64f3c5ae <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#to+hear+it> .
+
+_:53d8de9d2d664bb19a9e151a64f3c5ae <http://lambda3.org/graphene/extraction#L-BACKGROUND> _:f353b017f786467488b56aa6383a66da .
+
+<http://lambda3.org/graphene/text#Hun-Hunahpii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Hun-Hunahpii"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#was+amazed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "was amazed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#to+hear+it> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "to hear it"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:95df80d9f62b47baa515b16c120c6c24 <http://lambda3.org/graphene/sentence#has-extraction> _:f353b017f786467488b56aa6383a66da .
+_:f353b017f786467488b56aa6383a66da <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:f353b017f786467488b56aa6383a66da <http://lambda3.org/graphene/extraction#context-layer> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:f353b017f786467488b56aa6383a66da <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#Hun-Hunahpii> .
+_:f353b017f786467488b56aa6383a66da <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#heard> .
+_:f353b017f786467488b56aa6383a66da <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#the+story+of+the+fruit+of+the+tree+which+Hun-Hunahpii+%27s+father+told> .
+
+
+<http://lambda3.org/graphene/text#Hun-Hunahpii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Hun-Hunahpii"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#heard> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "heard"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#the+story+of+the+fruit+of+the+tree+which+Hun-Hunahpii+%27s+father+told> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the story of the fruit of the tree which Hun-Hunahpii 's father told"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# `` Why can I not go to see this tree which tell about ? ''
+
+_:4a4cd827078d4c09b50bdc6e9b450e0a <http://lambda3.org/graphene/sentence#original-text> "`` Why can I not go to see this tree which tell about ? ''"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# the girl exclaimed .
+
+_:7daf9f514fec455f8d4f11c15c7d41da <http://lambda3.org/graphene/sentence#original-text> "the girl exclaimed ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:7daf9f514fec455f8d4f11c15c7d41da <http://lambda3.org/graphene/sentence#has-extraction> _:b154c50f494a4200adf8ce690eaa0107 .
+_:b154c50f494a4200adf8ce690eaa0107 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b154c50f494a4200adf8ce690eaa0107 <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b154c50f494a4200adf8ce690eaa0107 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#the+girl> .
+_:b154c50f494a4200adf8ce690eaa0107 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#exclaimed> .
+_:b154c50f494a4200adf8ce690eaa0107 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#> .
+
+
+<http://lambda3.org/graphene/text#the+girl> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the girl"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#exclaimed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "exclaimed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# `` Surely the fruit of which I hear tell must be very good . ''
+
+_:6c63418e138a47bc86671b4566558004 <http://lambda3.org/graphene/sentence#original-text> "`` Surely the fruit of which I hear tell must be very good . ''"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:6c63418e138a47bc86671b4566558004 <http://lambda3.org/graphene/sentence#has-extraction> _:d60ce937c52e4703adb9eb7dfc4af30d .
+_:d60ce937c52e4703adb9eb7dfc4af30d <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:d60ce937c52e4703adb9eb7dfc4af30d <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:d60ce937c52e4703adb9eb7dfc4af30d <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#the+fruit+of+which+I+hear+tell> .
+_:d60ce937c52e4703adb9eb7dfc4af30d <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#must+be+very+good> .
+_:d60ce937c52e4703adb9eb7dfc4af30d <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#> .
+
+
+<http://lambda3.org/graphene/text#the+fruit+of+which+I+hear+tell> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the fruit of which I hear tell"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#must+be+very+good> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "must be very good"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# Finally Hun-Hunahpii went alone and arrived at the foot of the tree which was planted in Pucbal-Chah .
+
+_:0af329a88aab45ce81f3745ac95a6631 <http://lambda3.org/graphene/sentence#original-text> "Finally Hun-Hunahpii went alone and arrived at the foot of the tree which was planted in Pucbal-Chah ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:0af329a88aab45ce81f3745ac95a6631 <http://lambda3.org/graphene/sentence#has-extraction> _:6786f89414b5478698a732628ac40af9 .
+_:6786f89414b5478698a732628ac40af9 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:6786f89414b5478698a732628ac40af9 <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:6786f89414b5478698a732628ac40af9 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#Hun-Hunahpii> .
+_:6786f89414b5478698a732628ac40af9 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#went+alone> .
+_:6786f89414b5478698a732628ac40af9 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#> .
+
+_:6786f89414b5478698a732628ac40af9 <http://lambda3.org/graphene/extraction#L-LIST> _:5708fda0039746dcba1d604830794af1 .
+
+<http://lambda3.org/graphene/text#Hun-Hunahpii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Hun-Hunahpii"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#went+alone> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "went alone"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:0af329a88aab45ce81f3745ac95a6631 <http://lambda3.org/graphene/sentence#has-extraction> _:5708fda0039746dcba1d604830794af1 .
+_:5708fda0039746dcba1d604830794af1 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:5708fda0039746dcba1d604830794af1 <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:5708fda0039746dcba1d604830794af1 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#Hun-Hunahpii> .
+_:5708fda0039746dcba1d604830794af1 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#arrived> .
+_:5708fda0039746dcba1d604830794af1 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#at+the+foot+of+the+tree+which+was+planted> .
+
+_:5708fda0039746dcba1d604830794af1 <http://lambda3.org/graphene/extraction#S-SPATIAL> <http://lambda3.org/graphene/text#in+Pucbal-Chah+.> .
+_:5708fda0039746dcba1d604830794af1 <http://lambda3.org/graphene/extraction#L-LIST> _:6786f89414b5478698a732628ac40af9 .
+
+<http://lambda3.org/graphene/text#Hun-Hunahpii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Hun-Hunahpii"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#arrived> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "arrived"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#at+the+foot+of+the+tree+which+was+planted> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "at the foot of the tree which was planted"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#in+Pucbal-Chah+.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "in Pucbal-Chah ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# `` Ah ! ''
+
+_:b06eea772dfa48a38737828c145cf9c6 <http://lambda3.org/graphene/sentence#original-text> "`` Ah ! ''"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# Hun-Hunahpii exclaimed .
+
+_:79d1240f255948639d8b5005f6dcda22 <http://lambda3.org/graphene/sentence#original-text> "Hun-Hunahpii exclaimed ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:79d1240f255948639d8b5005f6dcda22 <http://lambda3.org/graphene/sentence#has-extraction> _:13d5725b65b640e48125436c676b70bd .
+_:13d5725b65b640e48125436c676b70bd <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:13d5725b65b640e48125436c676b70bd <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:13d5725b65b640e48125436c676b70bd <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#Hun-Hunahpii> .
+_:13d5725b65b640e48125436c676b70bd <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#exclaimed> .
+_:13d5725b65b640e48125436c676b70bd <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#> .
+
+
+<http://lambda3.org/graphene/text#Hun-Hunahpii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Hun-Hunahpii"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#exclaimed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "exclaimed"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# `` What fruit is this which this tree bears ?
+
+_:303e2c7d7aaa49b3bafde9f3c03a6e86 <http://lambda3.org/graphene/sentence#original-text> "`` What fruit is this which this tree bears ?"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:303e2c7d7aaa49b3bafde9f3c03a6e86 <http://lambda3.org/graphene/sentence#has-extraction> _:b48999b728b5460c9fc833bd0db25051 .
+_:b48999b728b5460c9fc833bd0db25051 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b48999b728b5460c9fc833bd0db25051 <http://lambda3.org/graphene/extraction#context-layer> "-1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b48999b728b5460c9fc833bd0db25051 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#this+tree> .
+_:b48999b728b5460c9fc833bd0db25051 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#bears> .
+_:b48999b728b5460c9fc833bd0db25051 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#> .
+
+
+<http://lambda3.org/graphene/text#this+tree> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "this tree"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#bears> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "bears"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# Is not wonderful to see how is covered with fruit ?
+
+_:433b9aafccc94e578f1117ae6ab3c86f <http://lambda3.org/graphene/sentence#original-text> "Is not wonderful to see how is covered with fruit ?"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# Must I die , shall I be lost , if I pick one of this fruit ? ''
+
+_:924060e72ab54dbf821bdd26ff18673e <http://lambda3.org/graphene/sentence#original-text> "Must I die , shall I be lost , if I pick one of this fruit ? ''"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# said the maiden .
+
+_:d54c83d361a24fbc8cf34d9aa086c6be <http://lambda3.org/graphene/sentence#original-text> "said the maiden ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# Then the skull which was among the branches of the tree spoke up and said : `` What is you wish ?
+
+_:1581034ae1ad4cc09d2113deb75403f3 <http://lambda3.org/graphene/sentence#original-text> "Then the skull which was among the branches of the tree spoke up and said : `` What is you wish ?"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:1581034ae1ad4cc09d2113deb75403f3 <http://lambda3.org/graphene/sentence#has-extraction> _:97031d14970e4707afc7f7fb7a39cc88 .
+_:97031d14970e4707afc7f7fb7a39cc88 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:97031d14970e4707afc7f7fb7a39cc88 <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:97031d14970e4707afc7f7fb7a39cc88 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#the+skull+which+was+among+the+branches+of+the+tree+spoke+up+and+said+%3A+%60%60+What+is+you> .
+_:97031d14970e4707afc7f7fb7a39cc88 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#wish> .
+_:97031d14970e4707afc7f7fb7a39cc88 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#> .
+
+
+<http://lambda3.org/graphene/text#the+skull+which+was+among+the+branches+of+the+tree+spoke+up+and+said+%3A+%60%60+What+is+you> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the skull which was among the branches of the tree spoke up and said : `` What is you"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#wish> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "wish"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# Those round objects which cover the branches of the trees are nothing but skulls . ''
+
+_:8ab64172f4694933b7b65a964750dc5e <http://lambda3.org/graphene/sentence#original-text> "Those round objects which cover the branches of the trees are nothing but skulls . ''"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:8ab64172f4694933b7b65a964750dc5e <http://lambda3.org/graphene/sentence#has-extraction> _:16aa0425b4e34c82b4c62d8a1a85da77 .
+_:16aa0425b4e34c82b4c62d8a1a85da77 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:16aa0425b4e34c82b4c62d8a1a85da77 <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:16aa0425b4e34c82b4c62d8a1a85da77 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#those> .
+_:16aa0425b4e34c82b4c62d8a1a85da77 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#round> .
+_:16aa0425b4e34c82b4c62d8a1a85da77 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#> .
+
+_:16aa0425b4e34c82b4c62d8a1a85da77 <http://lambda3.org/graphene/extraction#L-CONTRAST> _:932f843a2ab4464e87c171854ecda4bd .
+
+<http://lambda3.org/graphene/text#those> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "those"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#round> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "round"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:8ab64172f4694933b7b65a964750dc5e <http://lambda3.org/graphene/sentence#has-extraction> _:8ea62d64b4f44968b02e3c2fc2ae1d50 .
+_:8ea62d64b4f44968b02e3c2fc2ae1d50 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:8ea62d64b4f44968b02e3c2fc2ae1d50 <http://lambda3.org/graphene/extraction#context-layer> "-1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:8ea62d64b4f44968b02e3c2fc2ae1d50 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#objects+which+cover+the+branches+of+the+trees> .
+_:8ea62d64b4f44968b02e3c2fc2ae1d50 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#are> .
+_:8ea62d64b4f44968b02e3c2fc2ae1d50 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#nothing> .
+
+
+<http://lambda3.org/graphene/text#objects+which+cover+the+branches+of+the+trees> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "objects which cover the branches of the trees"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#are> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "are"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#nothing> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "nothing"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:8ab64172f4694933b7b65a964750dc5e <http://lambda3.org/graphene/sentence#has-extraction> _:932f843a2ab4464e87c171854ecda4bd .
+_:932f843a2ab4464e87c171854ecda4bd <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:932f843a2ab4464e87c171854ecda4bd <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:932f843a2ab4464e87c171854ecda4bd <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#those> .
+_:932f843a2ab4464e87c171854ecda4bd <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#round> .
+_:932f843a2ab4464e87c171854ecda4bd <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#> .
+
+_:932f843a2ab4464e87c171854ecda4bd <http://lambda3.org/graphene/extraction#L-CONTRAST> _:16aa0425b4e34c82b4c62d8a1a85da77 .
+
+<http://lambda3.org/graphene/text#those> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "those"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#round> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "round"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:8ab64172f4694933b7b65a964750dc5e <http://lambda3.org/graphene/sentence#has-extraction> _:ff202f92e65645ad8717a54e735f5166 .
+_:ff202f92e65645ad8717a54e735f5166 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:ff202f92e65645ad8717a54e735f5166 <http://lambda3.org/graphene/extraction#context-layer> "-1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:ff202f92e65645ad8717a54e735f5166 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#objects+which+cover+the+branches+of+the+trees> .
+_:ff202f92e65645ad8717a54e735f5166 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#skulls> .
+_:ff202f92e65645ad8717a54e735f5166 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#> .
+
+
+<http://lambda3.org/graphene/text#objects+which+cover+the+branches+of+the+trees> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "objects which cover the branches of the trees"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#skulls> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "skulls"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# So spoke the head of Hun-Hunahpu turning to the maiden .
+
+_:cd888e38a6f24fc6af6d06db62a95f08 <http://lambda3.org/graphene/sentence#original-text> "So spoke the head of Hun-Hunahpu turning to the maiden ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# `` Do you , perchance , want them ? ''
+
+_:8c1502297fe442858b2d8c1c24baf4fe <http://lambda3.org/graphene/sentence#original-text> "`` Do you , perchance , want them ? ''"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# added .
+
+_:f71db7139a884fbd99cc010144085c13 <http://lambda3.org/graphene/sentence#original-text> "added ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# `` Yes , I want them , '' the maiden answered .
+
+_:536b0416663d4a9dad397a8e00ff723a <http://lambda3.org/graphene/sentence#original-text> "`` Yes , I want them , '' the maiden answered ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:536b0416663d4a9dad397a8e00ff723a <http://lambda3.org/graphene/sentence#has-extraction> _:f326c7f9f0da4e0c9bff8492265c31fb .
+_:f326c7f9f0da4e0c9bff8492265c31fb <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:f326c7f9f0da4e0c9bff8492265c31fb <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:f326c7f9f0da4e0c9bff8492265c31fb <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#I> .
+_:f326c7f9f0da4e0c9bff8492265c31fb <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#want> .
+_:f326c7f9f0da4e0c9bff8492265c31fb <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#them> .
+
+_:f326c7f9f0da4e0c9bff8492265c31fb <http://lambda3.org/graphene/extraction#S-ATTRIBUTION> <http://lambda3.org/graphene/text#the+maiden+answered+.> .
+
+<http://lambda3.org/graphene/text#I> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "I"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#want> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "want"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#them> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "them"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#the+maiden+answered+.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the maiden answered ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# `` Very well , '' said the skull .
+
+_:f665707640ed449fbaef5489bbb51b1c <http://lambda3.org/graphene/sentence#original-text> "`` Very well , '' said the skull ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# `` Stretch your right hand up here . ''
+
+_:1f2fd25a97a1422eb7ec66ecee3db5c4 <http://lambda3.org/graphene/sentence#original-text> "`` Stretch your right hand up here . ''"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# `` Very well , '' said the maiden , and with Hun-Hunahpii 's right hand reached toward the skull .
+
+_:2a236549df2a4c64bb6a27c640a112ad <http://lambda3.org/graphene/sentence#original-text> "`` Very well , '' said the maiden , and with Hun-Hunahpii 's right hand reached toward the skull ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:2a236549df2a4c64bb6a27c640a112ad <http://lambda3.org/graphene/sentence#has-extraction> _:07c0dab36a2645abbd6822c5cf2d6a63 .
+_:07c0dab36a2645abbd6822c5cf2d6a63 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:07c0dab36a2645abbd6822c5cf2d6a63 <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:07c0dab36a2645abbd6822c5cf2d6a63 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#%60%60+Very+well+%2C+%27%27+with+Hun-Hunahpii+%27s+right+hand> .
+_:07c0dab36a2645abbd6822c5cf2d6a63 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#reached> .
+_:07c0dab36a2645abbd6822c5cf2d6a63 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#toward+the+skull> .
+
+
+<http://lambda3.org/graphene/text#%60%60+Very+well+%2C+%27%27+with+Hun-Hunahpii+%27s+right+hand> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "`` Very well , '' with Hun-Hunahpii 's right hand"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#reached> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "reached"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#toward+the+skull> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "toward the skull"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# In that instant the skull let a few drops of spittle fall directly into the maiden 's palm .
+
+_:89c9ac1a8f2242f38e979b7e8f0f6ae1 <http://lambda3.org/graphene/sentence#original-text> "In that instant the skull let a few drops of spittle fall directly into the maiden 's palm ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:89c9ac1a8f2242f38e979b7e8f0f6ae1 <http://lambda3.org/graphene/sentence#has-extraction> _:8ef4692dd51c4dbf8fcb35fa432a2221 .
+_:8ef4692dd51c4dbf8fcb35fa432a2221 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:8ef4692dd51c4dbf8fcb35fa432a2221 <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:8ef4692dd51c4dbf8fcb35fa432a2221 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#the+skull> .
+_:8ef4692dd51c4dbf8fcb35fa432a2221 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#let> .
+_:8ef4692dd51c4dbf8fcb35fa432a2221 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#> .
+
+_:8ef4692dd51c4dbf8fcb35fa432a2221 <http://lambda3.org/graphene/extraction#S-UNKNOWN> <http://lambda3.org/graphene/text#in+that+instant+.> .
+_:8ef4692dd51c4dbf8fcb35fa432a2221 <http://lambda3.org/graphene/extraction#L-UNKNOWN_SUBORDINATION> _:29e702a256ee4d43900d582bea1b85db .
+
+<http://lambda3.org/graphene/text#the+skull> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the skull"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#let> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "let"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#in+that+instant+.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "in that instant ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:89c9ac1a8f2242f38e979b7e8f0f6ae1 <http://lambda3.org/graphene/sentence#has-extraction> _:29e702a256ee4d43900d582bea1b85db .
+_:29e702a256ee4d43900d582bea1b85db <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:29e702a256ee4d43900d582bea1b85db <http://lambda3.org/graphene/extraction#context-layer> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:29e702a256ee4d43900d582bea1b85db <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#a+few+drops+of+spittle> .
+_:29e702a256ee4d43900d582bea1b85db <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#fall+directly> .
+_:29e702a256ee4d43900d582bea1b85db <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#into+the+maiden+%27s+palm> .
+
+
+<http://lambda3.org/graphene/text#a+few+drops+of+spittle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "a few drops of spittle"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#fall+directly> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "fall directly"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#into+the+maiden+%27s+palm> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "into the maiden 's palm"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# Hun-Hunahpii looked quickly and intently at the palm of Hun-Hunahpii 's hand , but the spittle of the skull was not there .
+
+_:db1c3f638022415297acd7f31543f595 <http://lambda3.org/graphene/sentence#original-text> "Hun-Hunahpii looked quickly and intently at the palm of Hun-Hunahpii 's hand , but the spittle of the skull was not there ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:db1c3f638022415297acd7f31543f595 <http://lambda3.org/graphene/sentence#has-extraction> _:f511a075603a478e899ef751d3cb7f19 .
+_:f511a075603a478e899ef751d3cb7f19 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:f511a075603a478e899ef751d3cb7f19 <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:f511a075603a478e899ef751d3cb7f19 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#Hun-Hunahpii> .
+_:f511a075603a478e899ef751d3cb7f19 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#looked+quickly> .
+_:f511a075603a478e899ef751d3cb7f19 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#> .
+
+_:f511a075603a478e899ef751d3cb7f19 <http://lambda3.org/graphene/extraction#L-CONTRAST> _:0b93332c381646fab090583843e091db .
+
+<http://lambda3.org/graphene/text#Hun-Hunahpii> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Hun-Hunahpii"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#looked+quickly> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "looked quickly"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:db1c3f638022415297acd7f31543f595 <http://lambda3.org/graphene/sentence#has-extraction> _:0b93332c381646fab090583843e091db .
+_:0b93332c381646fab090583843e091db <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:0b93332c381646fab090583843e091db <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:0b93332c381646fab090583843e091db <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#the+spittle+of+the+skull> .
+_:0b93332c381646fab090583843e091db <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#was+not+there> .
+_:0b93332c381646fab090583843e091db <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#> .
+
+_:0b93332c381646fab090583843e091db <http://lambda3.org/graphene/extraction#L-CONTRAST> _:f511a075603a478e899ef751d3cb7f19 .
+
+<http://lambda3.org/graphene/text#the+spittle+of+the+skull> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the spittle of the skull"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#was+not+there> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "was not there"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# `` In my saliva and spittle I have given you my descendants , '' said the voice in the tree .
+
+_:dcc9c0c15f3947649c4781ecc85a3e85 <http://lambda3.org/graphene/sentence#original-text> "`` In my saliva and spittle I have given you my descendants , '' said the voice in the tree ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:dcc9c0c15f3947649c4781ecc85a3e85 <http://lambda3.org/graphene/sentence#has-extraction> _:0aeb62e0c22a42fb85234807d2b0b12b .
+_:0aeb62e0c22a42fb85234807d2b0b12b <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:0aeb62e0c22a42fb85234807d2b0b12b <http://lambda3.org/graphene/extraction#context-layer> "-1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:0aeb62e0c22a42fb85234807d2b0b12b <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#I> .
+_:0aeb62e0c22a42fb85234807d2b0b12b <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#have+given> .
+_:0aeb62e0c22a42fb85234807d2b0b12b <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#you+my+descendants> .
+
+
+<http://lambda3.org/graphene/text#I> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "I"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#have+given> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "have given"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#you+my+descendants> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "you my descendants"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# `` Now my head has nothing on any more , is nothing but a skull without flesh .
+
+_:c92023645f164807ad75e10a8da252ff <http://lambda3.org/graphene/sentence#original-text> "`` Now my head has nothing on any more , is nothing but a skull without flesh ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# So are the heads of the great princes , the flesh is all which gives them a handsome appearance .
+
+_:deb6577eb2ca49c0826f1fee79e12af2 <http://lambda3.org/graphene/sentence#original-text> "So are the heads of the great princes , the flesh is all which gives them a handsome appearance ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:deb6577eb2ca49c0826f1fee79e12af2 <http://lambda3.org/graphene/sentence#has-extraction> _:9d59ab0682924038be5789d03d56447b .
+_:9d59ab0682924038be5789d03d56447b <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:9d59ab0682924038be5789d03d56447b <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:9d59ab0682924038be5789d03d56447b <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#the+flesh> .
+_:9d59ab0682924038be5789d03d56447b <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#is> .
+_:9d59ab0682924038be5789d03d56447b <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#all+which+gives+them+a+handsome+appearance> .
+
+_:9d59ab0682924038be5789d03d56447b <http://lambda3.org/graphene/extraction#L-LIST> _:ebbe7a954df646bba75436b5095b0f51 .
+
+<http://lambda3.org/graphene/text#the+flesh> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the flesh"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#is> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "is"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#all+which+gives+them+a+handsome+appearance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "all which gives them a handsome appearance"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# And when die , men are frightened by their bones .
+
+_:de9172062c44457b968df8d2899f92ca <http://lambda3.org/graphene/sentence#original-text> "And when die , men are frightened by their bones ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:de9172062c44457b968df8d2899f92ca <http://lambda3.org/graphene/sentence#has-extraction> _:ebbe7a954df646bba75436b5095b0f51 .
+_:ebbe7a954df646bba75436b5095b0f51 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:ebbe7a954df646bba75436b5095b0f51 <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:ebbe7a954df646bba75436b5095b0f51 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#men> .
+_:ebbe7a954df646bba75436b5095b0f51 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#are+frightened+by+their+bones> .
+_:ebbe7a954df646bba75436b5095b0f51 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#> .
+
+_:ebbe7a954df646bba75436b5095b0f51 <http://lambda3.org/graphene/extraction#S-UNKNOWN> <http://lambda3.org/graphene/text#die+.> .
+_:ebbe7a954df646bba75436b5095b0f51 <http://lambda3.org/graphene/extraction#L-LIST> _:9d59ab0682924038be5789d03d56447b .
+
+<http://lambda3.org/graphene/text#men> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "men"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#are+frightened+by+their+bones> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "are frightened by their bones"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#die+.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "die ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# So , too , is the nature of the sons , which are like saliva and spittle , may be sons of a lord , of a wise man , or of an orator .
+
+_:3c91f882427e4edf9ffdca85c055da90 <http://lambda3.org/graphene/sentence#original-text> "So , too , is the nature of the sons , which are like saliva and spittle , may be sons of a lord , of a wise man , or of an orator ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:3c91f882427e4edf9ffdca85c055da90 <http://lambda3.org/graphene/sentence#has-extraction> _:94598364cb2d4b1f9aea0f31bbc0cd41 .
+_:94598364cb2d4b1f9aea0f31bbc0cd41 <http://lambda3.org/graphene/extraction#extraction-type> "NOUN_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:94598364cb2d4b1f9aea0f31bbc0cd41 <http://lambda3.org/graphene/extraction#context-layer> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:94598364cb2d4b1f9aea0f31bbc0cd41 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#the+sons> .
+_:94598364cb2d4b1f9aea0f31bbc0cd41 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#are> .
+_:94598364cb2d4b1f9aea0f31bbc0cd41 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#like+saliva+and+spittle> .
+
+
+<http://lambda3.org/graphene/text#the+sons> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the sons"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#are> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "are"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#like+saliva+and+spittle> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "like saliva and spittle"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# 2 do not lose their substance when go , but bequeath it ; the image of the lord , of the wise man , or of the orator does not disappear , nor is lost , but Cuchumaquic leaves to the daughters and to the sons which Cuchumaquic begets .
+
+_:b65ca916523648aa8769e6e662b14d57 <http://lambda3.org/graphene/sentence#original-text> "2 do not lose their substance when go , but bequeath it ; the image of the lord , of the wise man , or of the orator does not disappear , nor is lost , but Cuchumaquic leaves to the daughters and to the sons which Cuchumaquic begets ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:b65ca916523648aa8769e6e662b14d57 <http://lambda3.org/graphene/sentence#has-extraction> _:95fb1c6fd5b640228c9dad2cb37fee72 .
+_:95fb1c6fd5b640228c9dad2cb37fee72 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:95fb1c6fd5b640228c9dad2cb37fee72 <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:95fb1c6fd5b640228c9dad2cb37fee72 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#2> .
+_:95fb1c6fd5b640228c9dad2cb37fee72 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#do+not+lose> .
+_:95fb1c6fd5b640228c9dad2cb37fee72 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#their+substance> .
+
+_:95fb1c6fd5b640228c9dad2cb37fee72 <http://lambda3.org/graphene/extraction#S-BACKGROUND> <http://lambda3.org/graphene/text#when+go+%2C+but+bequeath+it+.> .
+
+<http://lambda3.org/graphene/text#2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "2"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#do+not+lose> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "do not lose"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#their+substance> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "their substance"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#when+go+%2C+but+bequeath+it+.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "when go , but bequeath it ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:b65ca916523648aa8769e6e662b14d57 <http://lambda3.org/graphene/sentence#has-extraction> _:6b092deb58f7417fb1c83ed3f2fe5058 .
+_:6b092deb58f7417fb1c83ed3f2fe5058 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:6b092deb58f7417fb1c83ed3f2fe5058 <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:6b092deb58f7417fb1c83ed3f2fe5058 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#the+image+of+the+lord+or+of+the+orator> .
+_:6b092deb58f7417fb1c83ed3f2fe5058 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#does+not+disappear> .
+_:6b092deb58f7417fb1c83ed3f2fe5058 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#> .
+
+_:6b092deb58f7417fb1c83ed3f2fe5058 <http://lambda3.org/graphene/extraction#S-UNKNOWN> <http://lambda3.org/graphene/text#of+the+wise+man+.> .
+_:6b092deb58f7417fb1c83ed3f2fe5058 <http://lambda3.org/graphene/extraction#L-CONTRAST> _:fdff6a2211fa415e82be906a80002aaf .
+
+<http://lambda3.org/graphene/text#the+image+of+the+lord+or+of+the+orator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the image of the lord or of the orator"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#does+not+disappear> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "does not disappear"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#of+the+wise+man+.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "of the wise man ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:b65ca916523648aa8769e6e662b14d57 <http://lambda3.org/graphene/sentence#has-extraction> _:fdff6a2211fa415e82be906a80002aaf .
+_:fdff6a2211fa415e82be906a80002aaf <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:fdff6a2211fa415e82be906a80002aaf <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:fdff6a2211fa415e82be906a80002aaf <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#cuchumaquic> .
+_:fdff6a2211fa415e82be906a80002aaf <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#leaves> .
+_:fdff6a2211fa415e82be906a80002aaf <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#to+the+daughters+and+to+the+sons+which+Cuchumaquic+begets> .
+
+_:fdff6a2211fa415e82be906a80002aaf <http://lambda3.org/graphene/extraction#L-CONTRAST> _:6b092deb58f7417fb1c83ed3f2fe5058 .
+_:fdff6a2211fa415e82be906a80002aaf <http://lambda3.org/graphene/extraction#L-CONTRAST> _:10c579ac706542f89bf22832e0af11bb .
+
+<http://lambda3.org/graphene/text#cuchumaquic> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "cuchumaquic"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#leaves> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "leaves"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#to+the+daughters+and+to+the+sons+which+Cuchumaquic+begets> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "to the daughters and to the sons which Cuchumaquic begets"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:b65ca916523648aa8769e6e662b14d57 <http://lambda3.org/graphene/sentence#has-extraction> _:10c579ac706542f89bf22832e0af11bb .
+_:10c579ac706542f89bf22832e0af11bb <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:10c579ac706542f89bf22832e0af11bb <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:10c579ac706542f89bf22832e0af11bb <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#the+image+of+the+lord+or+of+the+orator> .
+_:10c579ac706542f89bf22832e0af11bb <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#is+lost> .
+_:10c579ac706542f89bf22832e0af11bb <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#> .
+
+_:10c579ac706542f89bf22832e0af11bb <http://lambda3.org/graphene/extraction#S-UNKNOWN> <http://lambda3.org/graphene/text#of+the+wise+man+.> .
+_:10c579ac706542f89bf22832e0af11bb <http://lambda3.org/graphene/extraction#L-CONTRAST> _:fdff6a2211fa415e82be906a80002aaf .
+
+<http://lambda3.org/graphene/text#the+image+of+the+lord+or+of+the+orator> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the image of the lord or of the orator"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#is+lost> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "is lost"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#of+the+wise+man+.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "of the wise man ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# I have done the same with you .
+
+_:596752e8d02b4dffa84a8a9a19f5b0af <http://lambda3.org/graphene/sentence#original-text> "I have done the same with you ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:596752e8d02b4dffa84a8a9a19f5b0af <http://lambda3.org/graphene/sentence#has-extraction> _:8e9174f7a3124293b2f2657a2d840976 .
+_:8e9174f7a3124293b2f2657a2d840976 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:8e9174f7a3124293b2f2657a2d840976 <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:8e9174f7a3124293b2f2657a2d840976 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#I> .
+_:8e9174f7a3124293b2f2657a2d840976 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#have+done> .
+_:8e9174f7a3124293b2f2657a2d840976 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#the+same+with+you> .
+
+
+<http://lambda3.org/graphene/text#I> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "I"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#have+done> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "have done"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#the+same+with+you> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the same with you"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# Go up , then , to the surface of the earth , that you may not die .
+
+_:fd15bf534e41403a9687bc055cad0820 <http://lambda3.org/graphene/sentence#original-text> "Go up , then , to the surface of the earth , that you may not die ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# Believe in my words that will be so , '' said the head of Hun-Hunahpu and of Vucub-Hunahpu .
+
+_:af4651e6fe6b479d964afdc485824b94 <http://lambda3.org/graphene/sentence#original-text> "Believe in my words that will be so , '' said the head of Hun-Hunahpu and of Vucub-Hunahpu ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# And all that did together was by order of Huracan , Chipi-Caculha , and Raxa-Caculha .
+
+_:1c513bdd006f43e79823129252dbd4b0 <http://lambda3.org/graphene/sentence#original-text> "And all that did together was by order of Huracan , Chipi-Caculha , and Raxa-Caculha ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:1c513bdd006f43e79823129252dbd4b0 <http://lambda3.org/graphene/sentence#has-extraction> _:18fe69667bf542deadfb54181b73c88e .
+_:18fe69667bf542deadfb54181b73c88e <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:18fe69667bf542deadfb54181b73c88e <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:18fe69667bf542deadfb54181b73c88e <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#all+that+did+together> .
+_:18fe69667bf542deadfb54181b73c88e <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#was> .
+_:18fe69667bf542deadfb54181b73c88e <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#by+order+of+Huracan+%2C+Chipi-Caculha+%2C+and+Raxa-Caculha> .
+
+
+<http://lambda3.org/graphene/text#all+that+did+together> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "all that did together"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#was> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "was"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#by+order+of+Huracan+%2C+Chipi-Caculha+%2C+and+Raxa-Caculha> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "by order of Huracan , Chipi-Caculha , and Raxa-Caculha"^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# After all of the above talking , the maiden returned directly to Chipi-Caculha 's home , having immediately conceived the sons in Chipi-Caculha 's belly by virtue of the spittle only .
+
+_:48c704e930024289ae16c952f7ee8d8d <http://lambda3.org/graphene/sentence#original-text> "After all of the above talking , the maiden returned directly to Chipi-Caculha 's home , having immediately conceived the sons in Chipi-Caculha 's belly by virtue of the spittle only ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:48c704e930024289ae16c952f7ee8d8d <http://lambda3.org/graphene/sentence#has-extraction> _:16d231a471944ed2bb5e75c182f8a9ba .
+_:16d231a471944ed2bb5e75c182f8a9ba <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:16d231a471944ed2bb5e75c182f8a9ba <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:16d231a471944ed2bb5e75c182f8a9ba <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#the+maiden> .
+_:16d231a471944ed2bb5e75c182f8a9ba <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#returned+directly> .
+_:16d231a471944ed2bb5e75c182f8a9ba <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#> .
+
+_:16d231a471944ed2bb5e75c182f8a9ba <http://lambda3.org/graphene/extraction#S-TEMPORAL_BEFORE> <http://lambda3.org/graphene/text#after+all+of+the+above+talking+.> .
+_:16d231a471944ed2bb5e75c182f8a9ba <http://lambda3.org/graphene/extraction#S-UNKNOWN> <http://lambda3.org/graphene/text#to+Chipi-Caculha+%27s+home+.> .
+_:16d231a471944ed2bb5e75c182f8a9ba <http://lambda3.org/graphene/extraction#L-LIST> _:b9cdc7897591492bad467586a39e562d .
+
+<http://lambda3.org/graphene/text#the+maiden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the maiden"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#returned+directly> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "returned directly"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> ""^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#after+all+of+the+above+talking+.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "after all of the above talking ."^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#to+Chipi-Caculha+%27s+home+.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "to Chipi-Caculha 's home ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:48c704e930024289ae16c952f7ee8d8d <http://lambda3.org/graphene/sentence#has-extraction> _:3c0093fd8c80460a8fa30ac9007ff9e1 .
+_:3c0093fd8c80460a8fa30ac9007ff9e1 <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:3c0093fd8c80460a8fa30ac9007ff9e1 <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:3c0093fd8c80460a8fa30ac9007ff9e1 <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#the+maiden> .
+_:3c0093fd8c80460a8fa30ac9007ff9e1 <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#was> .
+_:3c0093fd8c80460a8fa30ac9007ff9e1 <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#having+immediately+conceived+the+sons+in+Chipi-Caculha+%27s+belly+by+virtue+of+the+spittle+only> .
+
+_:3c0093fd8c80460a8fa30ac9007ff9e1 <http://lambda3.org/graphene/extraction#S-TEMPORAL_BEFORE> <http://lambda3.org/graphene/text#after+all+of+the+above+talking+.> .
+_:3c0093fd8c80460a8fa30ac9007ff9e1 <http://lambda3.org/graphene/extraction#L-LIST> _:b9cdc7897591492bad467586a39e562d .
+
+<http://lambda3.org/graphene/text#the+maiden> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "the maiden"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#was> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "was"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#having+immediately+conceived+the+sons+in+Chipi-Caculha+%27s+belly+by+virtue+of+the+spittle+only> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "having immediately conceived the sons in Chipi-Caculha 's belly by virtue of the spittle only"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#after+all+of+the+above+talking+.> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "after all of the above talking ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+# And thus Hun-Hunahpii and Xbalanque were begotten .
+
+_:04802f7285994b5c820f750556ba76cb <http://lambda3.org/graphene/sentence#original-text> "And thus Hun-Hunahpii and Xbalanque were begotten ."^^<http://www.w3.org/2001/XMLSchema#string> .
+
+_:04802f7285994b5c820f750556ba76cb <http://lambda3.org/graphene/sentence#has-extraction> _:b9cdc7897591492bad467586a39e562d .
+_:b9cdc7897591492bad467586a39e562d <http://lambda3.org/graphene/extraction#extraction-type> "VERB_BASED"^^<http://www.w3.org/2001/XMLSchema#string> .
+_:b9cdc7897591492bad467586a39e562d <http://lambda3.org/graphene/extraction#context-layer> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b9cdc7897591492bad467586a39e562d <http://lambda3.org/graphene/extraction#subject> <http://lambda3.org/graphene/text#Hun-Hunahpii+and+Xbalanque> .
+_:b9cdc7897591492bad467586a39e562d <http://lambda3.org/graphene/extraction#predicate> <http://lambda3.org/graphene/text#were+begotten> .
+_:b9cdc7897591492bad467586a39e562d <http://lambda3.org/graphene/extraction#object> <http://lambda3.org/graphene/text#> .
+
+_:b9cdc7897591492bad467586a39e562d <http://lambda3.org/graphene/extraction#L-LIST> _:16d231a471944ed2bb5e75c182f8a9ba .
+_:b9cdc7897591492bad467586a39e562d <http://lambda3.org/graphene/extraction#L-LIST> _:3c0093fd8c80460a8fa30ac9007ff9e1 .
+
+<http://lambda3.org/graphene/text#Hun-Hunahpii+and+Xbalanque> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "Hun-Hunahpii and Xbalanque"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#were+begotten> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> "were begotten"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://lambda3.org/graphene/text#> <http://www.w3.org/1999/02/22-rdf-syntax-ns#value> ""^^<http://www.w3.org/2001/XMLSchema#string> .
