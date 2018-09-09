@@ -36,7 +36,7 @@ public class Table {
           tableHTML += "        </tr>\n";
           tableHTML += "        <tr>\n";
           tableHTML += "            <td align='center'> Relation </td>\n";
-          tableHTML += "            <td align='center'> Source </td>\n";
+          tableHTML += "            <td align='center'> Target </td>\n";
           tableHTML += "        </tr>\n";
           for (Column c: columns) {
                tableHTML += "        <tr>\n";
