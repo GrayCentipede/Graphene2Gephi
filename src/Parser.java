@@ -110,7 +110,9 @@ public class Parser {
                          String copy = label.toLowerCase();
 
                          for (Node node : Nodes) {
-                              if (node.label.toLowerCase().equals(copy)) {
+                              boolean nodeContains = (node.label.toLowerCase().indexOf(copy) > -1);
+                              boolean nodeIsContained = (copy.indexOf(node.label.toLowerCase()) > -1);
+                              if (nodeContains || nodeIsContained) {
                                    temp = node;
                                    break;
                               }
