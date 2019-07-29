@@ -53,17 +53,21 @@ public class Parser {
 
      private String file;
 
-     private int mode;
+     private boolean includePredicates;
+     private boolean strictSearch;
 
      public Parser() {
-          mode = 0;
           Nodes = new ArrayList<>();
           Edges = new ArrayList<>();
           Objectives = new ArrayList<>();
      }
 
-     public void setMode(int m) {
-          mode = m;
+     public void setOption(String option) {
+          if (option.equals("include-predicates"))
+              includePredicates = true;
+
+          else if (option.equals("strict-search"))
+              strictSearch = true;
      }
 
      private String filter(String xml) {
@@ -163,53 +167,110 @@ public class Parser {
           }
      }
 
-     public void depurate() {
-          ArrayList<Integer> n = new ArrayList<>();
-          ArrayList<Integer> keep = new ArrayList<>();
-          Iterator<Node> j = Nodes.iterator();
-          Iterator<Edge> i = Edges.iterator();
+     private ArrayList<Node> depurateNodes() {
+         ArrayList<Node> filteredNodes = new ArrayList<>();
 
-          for (Node node : Nodes) {
-               for (String o : Objectives) {
-                    if (node.label.indexOf(o) > -1) {
-                         n.add(node.ID);
+         boolean comparison = false;
+
+         for (Node node: Nodes) {
+             for (String objective : Objectives) {
+
+                 if (strictSearch)
+                     comparison = node.label.equals(objective);
+                 else
+                     comparison = (node.label.indexOf(objective) > -1 ||
+                                   objective.indexOf(node.label) > -1);
+
+                 if (comparison) {
+                     filteredNodes.add(node);
+                     break;
+                 }
+             }
+         }
+
+         return filteredNodes;
+     }
+
+     private boolean isNodeContained(Node node, ArrayList<Node> list) {
+         for (Node n : list)
+             if (node.ID == n.ID)
+                 return true;
+
+         return false;
+     }
+
+     private ArrayList<Edge> depurateEdges(ArrayList<Node> filteredNodes) {
+         ArrayList<Edge> filteredEdges = new ArrayList<>();
+
+         /* List of nodes that do not match the objetives but are connected by
+            an edge that matches with an objective or is adjecent to a filtered
+            node. */
+         ArrayList<Node> adjecentNodes = new ArrayList<>();
+
+         Node source = null;
+         Node target = null;
+
+         boolean comparison = false;
+
+         boolean includeEdge = false;
+
+         for (Edge edge : Edges) {
+
+             includeEdge = false;
+
+             source = edge.getSource();
+             target = edge.getTarget();
+
+             if (includePredicates) {
+                 for (String objective : Objectives) {
+                     if (strictSearch)
+                         comparison = edge.label.equals(objective);
+                     else
+                         comparison = (edge.label.indexOf(objective) > -1 ||
+                                       objective.indexOf(edge.label) > -1);
+
+                     if (comparison) {
+                         includeEdge = true;
                          break;
-                    }
-               }
-          }
+                     }
+                 }
+             }
 
-          while (i.hasNext()) {
-               Edge e = i.next();
-               Boolean found = false;
-               if (!(n.contains(e.source.ID) || n.contains(e.target.ID))) {
-                    if (mode == 2) {
-                         for (String o : Objectives) {
-                              found = false;
-                              String aux = (String) e.label;
-                              if (aux.indexOf(o) > -1)
-                                   found = true;
-                         }
-                         if (!found) {
-                              i.remove();
-                              continue;
-                         }
-                    }
-                    else {
-                         i.remove();
-                         continue;
-                    }
-               }
-               Node t = e.source;
-               keep.add(t.ID);
-               t = e.target;
-               keep.add(t.ID);
-          }
+             else {
+                 if (isNodeContained(source, filteredNodes) ||
+                     isNodeContained(target, filteredNodes)){
+                     includeEdge = true;
+                 }
+             }
 
-          while (j.hasNext()) {
-               Node s = j.next();
-               if (!(keep.contains(s.ID)))
-                    j.remove();
-          }
+             if (includeEdge) {
+                 filteredEdges.add(edge);
+
+                 if (!(isNodeContained(source, filteredNodes)) &&
+                     !(isNodeContained(source, adjecentNodes)))
+                     adjecentNodes.add(source);
+
+                 if (!(isNodeContained(target, filteredNodes)) &&
+                     !(isNodeContained(target, adjecentNodes)))
+                     adjecentNodes.add(target);
+             }
+         }
+
+         filteredNodes.addAll(adjecentNodes);
+
+         return filteredEdges;
+     }
+
+     public void depurate() {
+         ArrayList<Node> filteredNodes = new ArrayList<>();
+         ArrayList<Edge> filteredEdges = new ArrayList<>();
+
+         filteredNodes = depurateNodes();
+
+         filteredEdges = depurateEdges(filteredNodes);
+
+         Nodes = filteredNodes;
+         Edges = filteredEdges;
      }
 
      public ArrayList<Edge> getEdges() {
