@@ -46,7 +46,7 @@ public class Container {
 
      @Override public String toString() {
           String html = "<html>\n";
-          html += "    <head>";
+          html += "    <head>\n";
           html += "        <title> ... </title>\n";
           html += "        <style>\n";
           html += "            table, th, td {\n";
