@@ -105,7 +105,7 @@ public class Graphene2Gephi {
                      " --search-entities <file> Filter the results from the input so the "      +
                                                "output only has subjects and objects that "     +
                                                "contain the searched entities. \n"              +
-                     " --include-predicatea     Include predicates in the search. \n"           +
+                     " --include-predicates     Include predicates in the search. \n"           +
                      " --strict-search          Nodes will have to match exactly the "          +
                                                "entities to appear in the output. \n"           +
                      " --html-output            Output has an html table format. \n"            +
