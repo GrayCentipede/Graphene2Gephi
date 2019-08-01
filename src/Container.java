@@ -11,27 +11,31 @@ public class Container {
 
      public void load(ArrayList<Parser.Edge> edges) {
           for (Parser.Edge e : edges) {
+               String source   = e.getSource().getLabel();
                String relation = e.getRelation();
-               String target = e.getTarget().getLabel();
-               String source = e.getSource().getLabel();
-               Table t = tables.get(source);
-               Table n = null;
-               if (t == null) {
-                    n = new Table(source);
-                    n.addColumn(relation, target);
-                    tables.put(source, n);
-               }
-               else
-                    t.addColumn(relation, target);
+               String target   = e.getTarget().getLabel();
 
-               t = tables.get(target);
-               if (t == null) {
-                    n = new Table(target);
-                    n.addColumn(relation, source);
-                    tables.put(target, n);
+               Table table = tables.get(source);
+
+               if (table == null) {
+                    table = new Table(source);
+                    table.addColumn(source, relation, target);
+
+                    tables.put(source, table);
                }
                else
-                    t.addColumn(relation, source);
+                    table.addColumn(source, relation, target);
+
+               table = tables.get(target);
+
+               if (table == null) {
+                    table = new Table(target);
+                    table.addColumn(source, relation, target);
+
+                    tables.put(target, table);
+               }
+               else
+                    table.addColumn(source ,relation, target);
           }
      }
 
@@ -45,7 +49,8 @@ public class Container {
      }
 
      @Override public String toString() {
-          String html = "<html>\n";
+          String html = "";
+          html += "<html>\n";
           html += "    <head>\n";
           html += "        <title> ... </title>\n";
           html += "        <style>\n";
