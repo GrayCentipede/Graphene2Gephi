@@ -57,8 +57,8 @@ public class Parser {
      private boolean strictSearch;
 
      public Parser() {
-          Nodes = new ArrayList<>();
-          Edges = new ArrayList<>();
+          Nodes      = new ArrayList<>();
+          Edges      = new ArrayList<>();
           Objectives = new ArrayList<>();
      }
 
@@ -236,11 +236,9 @@ public class Parser {
                  }
              }
 
-             else {
-                 if (isNodeContained(source, filteredNodes) ||
-                     isNodeContained(target, filteredNodes)){
-                     includeEdge = true;
-                 }
+             if (!includeEdge && isNodeContained(source, filteredNodes) ||
+                 isNodeContained(target, filteredNodes)){
+                 includeEdge = true;
              }
 
              if (includeEdge) {
